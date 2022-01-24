@@ -1,0 +1,34 @@
+{
+  "name": "rbd_application",
+  "version": "1.0.0",
+  "description": "Restaurant Brands Click n Collect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "cross-env NODE_ENV=test jest --testTimeout=10000"
+  },
+  "author": "Himanshu Vashisth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "nanoid": "^3.2.0",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^27.4.7",
+    "supertest": "^6.2.2"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
+}
