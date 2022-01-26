@@ -1,0 +1,6323 @@
+---
+- StoreId: 5500
+  Store Name: KFC Chickenland
+  Address: 20 Ocean View Road, Oneroa, Waiheke Island, New Zealand
+  Suburb: Waiheke Island
+  GST: 013-617-171
+  IPAddress: 10.15.8.100
+  Paymark Account: 11567
+  City: Waiheke Island
+  Postal Code: 1234
+  Phone: 095258700
+  Email: John.Cheng@rbd.co.nz
+  Longitude: 175.036317
+  Latitude: -36.7808618
+  Delivery Charge: 0.01
+  BringgTeam: 36856
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 0.01
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 01:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 00:15
+  MondayEndTime-delivery: 23:59
+  TuesdayStartTime-delivery: 00:01
+  TuesdayEndTime-delivery: 23:30
+  WednesdayStartTime-delivery: 00:02
+  WednesdayEndTime-delivery: 23:59
+  ThursdayStartTime-delivery: 00:02
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 00:15
+  FridayEndTime-delivery: 15:45
+  SaturdayStartTime-delivery: 00:15
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 23:59
+  TuesdayStartTime-pickup: 00:02
+  TuesdayEndTime-pickup: 23:59
+  WednesdayStartTime-pickup: 00:02
+  WednesdayEndTime-pickup: 21:45
+  ThursdayStartTime-pickup: 00:02
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 00:15
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 00:15
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: N
+  Store Message:
+- StoreId: 5501
+  Store Name: KFC Royal Oak
+  Address: 810-822 Manukau Road
+  Suburb: Royal Oak
+  GST: 013-617-171
+  IPAddress: 10.10.1.220
+  Paymark Account: 12824
+  City: Auckland
+  Postal Code: 1061
+  Phone: 09 625 5173
+  Email: Royal.Oak@kfc.co.nz
+  Longitude: 174.776815
+  Latitude: -36.912459
+  Delivery Charge: 7.99
+  BringgTeam: 16669
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5502
+  Store Name: KFC Panmure
+  Address: 3 Forge Way
+  Suburb: Panmure
+  GST: 013-617-171
+  IPAddress: 10.10.2.220
+  Paymark Account: 12870
+  City: Auckland
+  Postal Code: 1060
+  Phone: 09 570 4902
+  Email: Panmure@kfc.co.nz
+  Longitude: 174.848372
+  Latitude: -36.897835
+  Delivery Charge: 7.99
+  BringgTeam: 16669
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5503
+  Store Name: KFC Takapuna
+  Address: 1/6 Taharoto Road
+  Suburb: Takapuna
+  GST: 013-617-171
+  IPAddress: 10.10.3.220
+  Paymark Account: 12816
+  City: Auckland
+  Postal Code: 622
+  Phone: 09 486 1053
+  Email: Takapuna@kfc.co.nz
+  Longitude: 174.761816
+  Latitude: -36.789426
+  Delivery Charge: 7.99
+  BringgTeam: 37086
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5504
+  Store Name: KFC Papatoetoe
+  Address: 60-62 East Tamaki Road
+  Suburb: Papatoeoe
+  GST: 013-617-171
+  IPAddress: 10.10.4.220
+  Paymark Account: 12821
+  City: South Auckland
+  Postal Code: 2025
+  Phone: 09 278 1556
+  Email: Papatoetoe@kfc.co.nz
+  Longitude: 174.8620601
+  Latitude: -36.9674669
+  Delivery Charge: 7.99
+  BringgTeam: 36976
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5505
+  Store Name: KFC Hamilton East
+  Address: 275 Grey Street
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.5.220
+  Paymark Account: 11734
+  City: Hamilton
+  Postal Code: 3216
+  Phone: 07 856 4687
+  Email: hamilton.east@kfc.co.nz
+  Longitude: 175.2937847
+  Latitude: -37.7952336
+  Delivery Charge: 7.99
+  BringgTeam: 36034
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 25
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5506
+  Store Name: KFC Rotorua
+  Address: 1265 Amohau Street
+  Suburb: Rotorua
+  GST: 013-617-171
+  IPAddress: 10.10.6.220
+  Paymark Account: 12888
+  City: Rotorua
+  Postal Code: 3204
+  Phone: 07 348 2877
+  Email: rotorua@kfc.co.nz
+  Longitude: 176.248149
+  Latitude: -38.139597
+  Delivery Charge: 7.99
+  BringgTeam: 36399
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5507
+  Store Name: KFC Lower Hutt
+  Address: 514 High Street
+  Suburb: Lower Hutt
+  GST: 013-617-171
+  IPAddress: 10.10.7.220
+  Paymark Account: 12980
+  City: Lower Hutt
+  Postal Code: 5010
+  Phone: 04 589 8567
+  Email: Lower.Hutt@kfc.co.nz
+  Longitude: 174.913645
+  Latitude: -41.204557
+  Delivery Charge: 7.99
+  BringgTeam: 33410
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5508
+  Store Name: KFC Dunedin South
+  Address: 521 Andersons Bay Road
+  Suburb: South Dunedin
+  GST: 013-617-171
+  IPAddress: 10.10.8.220
+  Paymark Account: 12988
+  City: Dunedin
+  Postal Code: 9013
+  Phone: 03 455 1316
+  Email: Dunedin.South@kfc.co.nz
+  Longitude: 170.507494
+  Latitude: -45.895516
+  Delivery Charge: 7.99
+  BringgTeam: 36611
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5509
+  Store Name: KFC Riccarton Road
+  Address: 71 Riccarton Road
+  Suburb: Riccarton
+  GST: 013-617-171
+  IPAddress: 10.10.9.220
+  Paymark Account: 12804
+  City: Christchurch
+  Postal Code: 8011
+  Phone: 03 348 6903
+  Email: riccarton.road@kfc.co.nz
+  Longitude: 172.6048326
+  Latitude: -43.5297254
+  Delivery Charge: 7.99
+  BringgTeam: 36607
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5510
+  Store Name: KFC Eastgate
+  Address: 258 Linwood Avenue
+  Suburb: Linwood
+  GST: 013-617-171
+  IPAddress: 10.10.10.220
+  Paymark Account: 12806
+  City: Christchurch
+  Postal Code: 8062
+  Phone: 03 380 5093
+  Email: eastgate@kfc.co.nz
+  Longitude: 172.675464
+  Latitude: -43.534477
+  Delivery Charge: 7.99
+  BringgTeam: 36605
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 10:15
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 10:15
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 10:15
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 10:15
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 10:15
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5511
+  Store Name: KFC Johnsonville
+  Address: 1 Johnsonville Road
+  Suburb: Johnsonville
+  GST: 013-617-171
+  IPAddress: 10.10.11.220
+  Paymark Account: 12981
+  City: Johnsonville
+  Postal Code: 6037
+  Phone: 04 478 6509
+  Email: Johnsonville@kfc.co.nz
+  Longitude: 174.807579
+  Latitude: -41.221925
+  Delivery Charge: 7.99
+  BringgTeam: 33414
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Last order for Delivery is half an hour before store closure.
+- StoreId: 5512
+  Store Name: KFC Northmall
+  Address: 15 Ulster Street
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.12.220
+  Paymark Account: 11735
+  City: Hamilton
+  Postal Code: 3200
+  Phone: 07 839 5228
+  Email: northmall@kfc.co.nz
+  Longitude: 175.2752052
+  Latitude: -37.7794725
+  Delivery Charge: 7.99
+  BringgTeam: 36034
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 25
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5513
+  Store Name: KFC Hastings
+  Address: Heretaunga St West
+  Suburb: Stortford Lodge
+  GST: 013-617-171
+  IPAddress: 10.10.13.220
+  Paymark Account: 12972
+  City: Hastings
+  Postal Code: 4120
+  Phone: 06 870 7430
+  Email: Hastings@kfc.co.nz
+  Longitude: 176.8355942
+  Latitude: -39.63474131
+  Delivery Charge: 7.99
+  BringgTeam: 36602
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 60
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 12:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 16:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5514
+  Store Name: KFC Colombo Street
+  Address: 258 Colombo Street
+  Suburb: Sydenham
+  GST: 013-617-171
+  IPAddress: 10.10.14.220
+  Paymark Account: 12803
+  City: Christchurch
+  Postal Code: 8023
+  Phone: 03 337 9031
+  Email: colombo.st@kfc.co.nz
+  Longitude: 172.6370422
+  Latitude: -43.5518532
+  Delivery Charge: 7.99
+  BringgTeam: 36605
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5515
+  Store Name: KFC New Plymouth
+  Address: Corner Courtenay & Gover Sts
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.15.220
+  Paymark Account: 12978
+  City: New Plymouth
+  Postal Code: 4310
+  Phone: 06 759 4185
+  Email: New.Plymouth@kfc.co.nz
+  Longitude: 174.0793777
+  Latitude: -39.05715886
+  Delivery Charge: 7.99
+  BringgTeam: 38740
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 45
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5516
+  Store Name: KFC Whangarei
+  Address: 1 Grey Street
+  Suburb: Regent
+  GST: 013-617-171
+  IPAddress: 10.10.16.220
+  Paymark Account: 12968
+  City: Whangarei
+  Postal Code: 112
+  Phone: 09 430 3343
+  Email: Whangarei@kfc.co.nz
+  Longitude: 174.321366
+  Latitude: -35.720355
+  Delivery Charge: 7.99
+  BringgTeam: 36985
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5517
+  Store Name: KFC Princess St - Palmerston North
+  Address: 99 Princess St
+  Suburb: Palmerston North
+  GST: 013-617-171
+  IPAddress: 10.10.17.220
+  Paymark Account: 12960
+  City: Palmerston North
+  Postal Code: 3204
+  Phone: 06 353 7435
+  Email: Palmerston.North@kfc.co.nz
+  Longitude: 175.617369
+  Latitude: -40.356218
+  Delivery Charge: 7.99
+  BringgTeam: 35951
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5518
+  Store Name: KFC Tauranga
+  Address: 449 Cameron Road
+  Suburb: Tauranga
+  GST: 013-617-171
+  IPAddress: 10.10.18.220
+  Paymark Account: 11801
+  City: Tauranga
+  Postal Code: 3204
+  Phone: 07 578 2042
+  Email: Tauranga@kfc.co.nz
+  Longitude: 176.160553
+  Latitude: -37.695717
+  Delivery Charge: 7.99
+  BringgTeam: 36409
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 18:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 16:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5519
+  Store Name: KFC Invercargill Dee Street
+  Address: Cnr Dee & Thames St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.19.220
+  Paymark Account: 12989
+  City: Invercargill
+  Postal Code: 9810
+  Phone: 03 218 4733
+  Email: Invercargill@kfc.co.nz
+  Longitude: 168.347261
+  Latitude: -46.40267751
+  Delivery Charge: 7.99
+  BringgTeam: 37110
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5520
+  Store Name: KFC Whanganui
+  Address: 265 Victoria Ave
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.20.220
+  Paymark Account: 12979
+  City: Whanganui
+  Postal Code: 4500
+  Phone: 06 348 9340
+  Email: Whanganui@kfc.co.nz
+  Longitude: 175.0446924
+  Latitude: -39.9288067
+  Delivery Charge: 7.99
+  BringgTeam: 38741
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5521
+  Store Name: KFC Gisborne
+  Address: 305 Gladstone Rd
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.21.220
+  Paymark Account: 12973
+  City: Gisborne
+  Postal Code: 4010
+  Phone: 06 867 4770
+  Email: Gisborne@kfc.co.nz
+  Longitude: 178.020883
+  Latitude: -38.6622921
+  Delivery Charge: 7.99
+  BringgTeam: 36603
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5523
+  Store Name: KFC Napier
+  Address: 251 Dickens St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.23.220
+  Paymark Account: 12974
+  City: Napier
+  Postal Code: 4110
+  Phone: 06 834 4618
+  Email: Napier@kfc.co.nz
+  Longitude: 176.9125465
+  Latitude: -39.4923592
+  Delivery Charge: 0.00
+  BringgTeam: 36601
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5524
+  Store Name: KFC Windsor Park
+  Address: 528 East Coast Road
+  Suburb: Windsor Park
+  GST: 013-617-171
+  IPAddress: 10.10.24.220
+  Paymark Account: 12814
+  City: North Shore
+  Postal Code: 3204
+  Phone: 09 478 3557
+  Email: Windsor.Park@kfc.co.nz
+  Longitude: 174.74184
+  Latitude: -36.739115
+  Delivery Charge: 7.99
+  BringgTeam: 37087
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5525
+  Store Name: KFC Balmoral
+  Address: 511 Dominion Road
+  Suburb: Balmoral
+  GST: 013-617-171
+  IPAddress: 10.10.25.220
+  Paymark Account: 12865
+  City: Central Auckland
+  Postal Code: 1024
+  Phone: 09 638 8616
+  Email: balmoral@kfc.co.nz
+  Longitude: 174.7466675
+  Latitude: -36.886578
+  Delivery Charge: 7.99
+  BringgTeam: 37088
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:30
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5527
+  Store Name: KFC Te Atatu
+  Address: 251 Edmonton Road
+  Suburb: Te Atatu
+  GST: 013-617-171
+  IPAddress: 10.10.27.220
+  Paymark Account: 12794
+  City: West Auckland
+  Postal Code: 610
+  Phone: 09 836 1154
+  Email: Te.Atatu@kfc.co.nz
+  Longitude: 174.645943
+  Latitude: -36.865617
+  Delivery Charge: 7.99
+  BringgTeam: 36987
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 23:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 23:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:30
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5528
+  Store Name: KFC Birkenhead
+  Address: 52 Birkenhead Avenue
+  Suburb: Birkenhead
+  GST: 013-617-171
+  IPAddress: 10.10.28.220
+  Paymark Account: 12813
+  City: North Shore
+  Postal Code: 3204
+  Phone: 09 480 2253
+  Email: Birkenhead@kfc.co.nz
+  Longitude: 174.725329
+  Latitude: -36.810119
+  Delivery Charge: 7.99
+  BringgTeam: 37086
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5529
+  Store Name: KFC Papanui
+  Address: 477 Papanui Road
+  Suburb: Papanui
+  GST: 013-617-171
+  IPAddress: 10.10.29.220
+  Paymark Account: 12807
+  City: Christchurch
+  Postal Code: 8053
+  Phone: 03 352 8030
+  Email: papanui@kfc.co.nz
+  Longitude: 172.6088778
+  Latitude: -43.4985778
+  Delivery Charge: 7.99
+  BringgTeam: 36607
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5530
+  Store Name: KFC Roslyn
+  Address: 2 Kaikorai Valley Road
+  Suburb: Roslyn
+  GST: 013-617-171
+  IPAddress: 10.10.30.220
+  Paymark Account: 12990
+  City:
+  Postal Code: 9010
+  Phone: 03 476 4416
+  Email: roslyn@kfc.co.nz
+  Longitude: 170.4846692
+  Latitude: -45.8661225
+  Delivery Charge: 7.99
+  BringgTeam: 36611
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 20:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 20:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 20:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 20:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 20:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 11:00
+  SundayEndTime-pickup: 20:00
+  MondayStartTime-pickup: 11:00
+  MondayEndTime-pickup: 20:30
+  TuesdayStartTime-pickup: 11:00
+  TuesdayEndTime-pickup: 20:30
+  WednesdayStartTime-pickup: 11:00
+  WednesdayEndTime-pickup: 20:30
+  ThursdayStartTime-pickup: 11:00
+  ThursdayEndTime-pickup: 20:30
+  FridayStartTime-pickup: 11:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 11:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5531
+  Store Name: KFC New Lynn
+  Address: 3052 Great North Road
+  Suburb: New Lynn
+  GST: 013-617-171
+  IPAddress: 10.10.31.220
+  Paymark Account: 12795
+  City: West Auckland
+  Postal Code: 600
+  Phone: 09 827 6461
+  Email: new.lynn@kfc.co.nz
+  Longitude: 174.68602
+  Latitude: -36.905923
+  Delivery Charge: 7.99
+  BringgTeam: 37088
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5532
+  Store Name: KFC Ponsonby
+  Address: 232 Ponsonby Road
+  Suburb: Ponsonby
+  GST: 013-617-171
+  IPAddress: 10.10.32.220
+  Paymark Account: 12826
+  City: Central Auckland
+  Postal Code: 1011
+  Phone: 09 376 7295
+  Email: ponsonby@kfc.co.nz
+  Longitude: 174.7441595
+  Latitude: -36.852175
+  Delivery Charge: 7.99
+  BringgTeam: 37088
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5533
+  Store Name: KFC Mangere East
+  Address: Mangere East Shopping Centre 365 Massey Road
+  Suburb: Mangere East
+  GST: 013-617-171
+  IPAddress: 10.10.33.220
+  Paymark Account: 12834
+  City: South Auckland
+  Postal Code: 2024
+  Phone: 09 275 6874
+  Email: mangere.east@kfc.co.nz
+  Longitude: 174.8242882
+  Latitude: -36.96652
+  Delivery Charge: 7.99
+  BringgTeam: 36978
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5534
+  Store Name: KFC Shirley
+  Address: 77 Shirley Road
+  Suburb: Shirley
+  GST: 013-617-171
+  IPAddress: 10.10.34.220
+  Paymark Account: 12805
+  City: Christchurch
+  Postal Code: 8031
+  Phone: 03 385 5995
+  Email: shirley@kfc.co.nz
+  Longitude: 172.6621739
+  Latitude: -43.5079127
+  Delivery Charge: 7.99
+  BringgTeam: 36605
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5535
+  Store Name: KFC Kent Terrace
+  Address: 44 Kent Terrace
+  Suburb: Te Aro
+  GST: 013-617-171
+  IPAddress: 10.10.35.220
+  Paymark Account: 12982
+  City: Wellington
+  Postal Code: 6011
+  Phone: 04 384 3216
+  Email: Kent.Terrace@kfc.co.nz
+  Longitude: 174.782654
+  Latitude: -41.297087
+  Delivery Charge: 0.00
+  BringgTeam: 34642
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5536
+  Store Name: KFC Porirua
+  Address: 10 Hagley Street
+  Suburb: Porirua
+  GST: 013-617-171
+  IPAddress: 10.10.36.220
+  Paymark Account: 12985
+  City: Wellington
+  Postal Code: 3204
+  Phone: 04 237 4726
+  Email: Porirua@kfc.co.nz
+  Longitude: 174.838617
+  Latitude: -41.135581
+  Delivery Charge: 7.99
+  BringgTeam: 34967
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:15
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:15
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:15
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:15
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:15
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:15
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:15
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5537
+  Store Name: KFC Nelson
+  Address: Cnr Tahunanui Dr & Beach Rd
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.37.220
+  Paymark Account: 13167
+  City: Nelson
+  Postal Code: 7011
+  Phone: 03 548 5050
+  Email: Nelson@kfc.co.nz
+  Longitude: 173.2496336
+  Latitude: -41.28075743
+  Delivery Charge: 7.99
+  BringgTeam: 36803
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 13:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5538
+  Store Name: KFC Tokoroa
+  Address: Corner Giles St & Ashworth St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.38.220
+  Paymark Account: 13178
+  City: Tokoroa
+  Postal Code: 3420
+  Phone: 07 886 8800
+  Email: Tokoroa@kfc.co.nz
+  Longitude: 175.8743548
+  Latitude: -38.21914125
+  Delivery Charge: 7.99
+  BringgTeam: 38750
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 17:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 17:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 17:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 17:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5539
+  Store Name: KFC Taupo
+  Address: 16 Roberts St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.39.220
+  Paymark Account: 12975
+  City: Taupo
+  Postal Code: 3330
+  Phone: 07 378 9995
+  Email: Taupo@kfc.co.nz
+  Longitude: 176.0698548576643
+  Latitude: -38.68954967771364
+  Delivery Charge: 7.99
+  BringgTeam: 38742
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 16:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5540
+  Store Name: KFC Timaru
+  Address: 85 Evans Street
+  Suburb: Waimataitai
+  GST: 013-617-171
+  IPAddress: 10.10.40.220
+  Paymark Account: 13177
+  City:
+  Postal Code: 7910
+  Phone: 03 688 3755
+  Email: timaru@kfc.co.nz
+  Longitude: 171.2365686
+  Latitude: -44.383171
+  Delivery Charge: 7.99
+  BringgTeam: 36612
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 20:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 20:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 20:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 20:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5541
+  Store Name: KFC Waihi
+  Address: 62 Seddon St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.41.220
+  Paymark Account: 13179
+  City: Waihi
+  Postal Code: 3610
+  Phone: 07 863 9190
+  Email: Waihi@kfc.co.nz
+  Longitude: 175.8413104
+  Latitude: -37.3909512
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5543
+  Store Name: KFC Upper Hutt
+  Address: Cnr Queen St & Logan St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.43.220
+  Paymark Account: 12986
+  City: Upper Hutt
+  Postal Code: 5018
+  Phone: 04 528 2363
+  Email: Upper.Hutt@kfc.co.nz
+  Longitude: 175.0724521
+  Latitude: -41.12301264
+  Delivery Charge: 7.99
+  BringgTeam: 33411
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5544
+  Store Name: KFC Blenheim
+  Address: 58 Grove Road
+  Suburb: Mayfield
+  GST: 013-617-171
+  IPAddress: 10.10.44.220
+  Paymark Account: 13152
+  City: Blenheim
+  Postal Code: 7201
+  Phone: 03 577 8503
+  Email: Blenheim@kfc.co.nz
+  Longitude: 173.96078
+  Latitude: -41.504057
+  Delivery Charge: 7.99
+  BringgTeam: 36583
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5545
+  Store Name: KFC Ashburton
+  Address: Corner East & Dobson Sts
+  Suburb:
+  GST: 076-796-823
+  IPAddress: 10.10.45.220
+  Paymark Account: 625750
+  City: Ashburton
+  Postal Code: 7700
+  Phone: 03 308 9094
+  Email: Ashburton@kfc.co.nz
+  Longitude: 171.7432165
+  Latitude: -43.90738524
+  Delivery Charge: 7.99
+  BringgTeam:
+  Delivery: N
+  Pickup: N
+  Click And Collect: N
+  Delivery Promise Time: 30
+  Pickup Promise Time: 15
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: Yes
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight.
+- StoreId: 5546
+  Store Name: KFC Manukau
+  Address: 738 Great South Road
+  Suburb: Manukau
+  GST: 013-617-171
+  IPAddress: 10.10.46.220
+  Paymark Account: 12827
+  City: Auckland
+  Postal Code: 2104
+  Phone: 09 263 9329
+  Email: Manukau@kfc.co.nz
+  Longitude: 174.886413
+  Latitude: -36.993971
+  Delivery Charge: 7.99
+  BringgTeam: 36976
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5548
+  Store Name: KFC Whakatane
+  Address: 16 Domain Road, Corner McAlister Road
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.48.220
+  Paymark Account: 12976
+  City: Whakatane
+  Postal Code: 3120
+  Phone: 07 307 1101
+  Email: whakatane@kfc.co.nz
+  Longitude: 176.991227
+  Latitude: -37.958263
+  Delivery Charge: 7.99
+  BringgTeam: 37188
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 17:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 17:30
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 17:30
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 17:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5549
+  Store Name: KFC Dunedin North
+  Address: 714 Great King Street North
+  Suburb: North Dunedin
+  GST: 013-617-171
+  IPAddress: 10.10.49.220
+  Paymark Account: 12991
+  City: Dunedin
+  Postal Code: 9016
+  Phone: 03 474 0344
+  Email: dunedin.nth@kfc.co.nz
+  Longitude: 170.513186
+  Latitude: -45.8594085
+  Delivery Charge: 7.99
+  BringgTeam: 36611
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5551
+  Store Name: KFC Pakuranga
+  Address: 350 Pakuranga Road
+  Suburb: Pakuranga
+  GST: 013-617-171
+  IPAddress: 10.10.51.220
+  Paymark Account: 12869
+  City: Auckland
+  Postal Code: 2012
+  Phone: 09 576 2013
+  Email: Pakuranga@kfc.co.nz
+  Longitude: 174.898718
+  Latitude: -36.900544
+  Delivery Charge: 7.99
+  BringgTeam: 36980
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5552
+  Store Name: KFC Kilbirnie
+  Address: 55 Rongotai Road
+  Suburb: Kilbirnie
+  GST: 013-617-171
+  IPAddress: 10.10.52.220
+  Paymark Account: 12987
+  City: Wellington
+  Postal Code: 112
+  Phone: 04 387 8899
+  Email: Kilbirnie@kfc.co.nz
+  Longitude: 174.795807
+  Latitude: -41.317874
+  Delivery Charge: 7.99
+  BringgTeam: 34642
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:30
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:30
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5553
+  Store Name: KFC Papakura
+  Address: Corner Great South Road & Subway Road
+  Suburb: Papakura
+  GST: 013-617-171
+  IPAddress: 10.10.53.220
+  Paymark Account: 12831
+  City: South Auckland
+  Postal Code: 2112
+  Phone: 09 296 0951
+  Email: papakura@kfc.co.nz
+  Longitude: 174.9401966
+  Latitude: -37.058513
+  Delivery Charge: 7.99
+  BringgTeam: 36974
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5554
+  Store Name: KFC Mangere Central
+  Address: 107 Mascot Avenue
+  Suburb: Mangere Central
+  GST: 013-617-171
+  IPAddress: 10.10.54.220
+  Paymark Account: 12833
+  City: Auckland
+  Postal Code: 3204
+  Phone: 09 275 1489
+  Email: Mangere.Central@kfc.co.nz
+  Longitude: 174.802125
+  Latitude: -36.970285
+  Delivery Charge: 7.99
+  BringgTeam: 36978
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5556
+  Store Name: KFC Pukekohe
+  Address: 83 Edinburgh Street
+  Suburb: Pukekohe
+  GST: 013-617-171
+  IPAddress: 10.10.56.220
+  Paymark Account: 12971
+  City: Auckland
+  Postal Code: 600
+  Phone: 09 238 4508
+  Email: Pukekohe@kfc.co.nz
+  Longitude: 174.904086
+  Latitude: -37.198466
+  Delivery Charge: 7.99
+  BringgTeam: 36404
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5557
+  Store Name: KFC St Lukes
+  Address: 80 St Lukes Road
+  Suburb: Mount Albert
+  GST: 013-617-171
+  IPAddress: 10.10.57.220
+  Paymark Account: 13170
+  City: Auckland
+  Postal Code: 1025
+  Phone: 09 846 1055
+  Email: st.lukes@kfc.co.nz
+  Longitude: 174.732358
+  Latitude: -36.88249
+  Delivery Charge: 7.99
+  BringgTeam: 37088
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 17:00
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 17:30
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 17:30
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 17:30
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 20:30
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 20:30
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 17:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 17:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 17:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 17:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 17:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 20:30
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 20:30
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 17:30
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5559
+  Store Name: KFC Hornby
+  Address: Hornby Shopping Centre Main South Road
+  Suburb: Hornby
+  GST: 013-617-171
+  IPAddress: 10.10.59.220
+  Paymark Account: 12808
+  City: Christchurch
+  Postal Code: 8042
+  Phone: 03 344 1245
+  Email: hornby@kfc.co.nz
+  Longitude: 172.525309
+  Latitude: -43.543043
+  Delivery Charge: 7.99
+  BringgTeam: 36608
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5560
+  Store Name: KFC Rangiora
+  Address: Corner Queen St & Ivory St
+  Suburb:
+  GST: 076-796-823
+  IPAddress: 10.10.60.220
+  Paymark Account: 625750
+  City: Rangiora
+  Postal Code: 7400
+  Phone: 03 313 2100
+  Email: Rangiora@kfc.co.nz
+  Longitude: 172.5972131
+  Latitude: -43.30551586
+  Delivery Charge: 7.99
+  BringgTeam:
+  Delivery: N
+  Pickup: N
+  Click And Collect: N
+  Delivery Promise Time: 30
+  Pickup Promise Time: 15
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:30
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:30
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:30
+  WednesdayEndTime-pickup: 23:00
+  ThursdayStartTime-pickup: 10:30
+  ThursdayEndTime-pickup: 23:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 23:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 23:00
+  ShutDown: Yes
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5562
+  Store Name: KFC Glen Innes
+  Address: 306 Apirana Ave
+  Suburb: Glen Innes
+  GST: 013-617-171
+  IPAddress: 10.10.62.220
+  Paymark Account: 12868
+  City: Auckland
+  Postal Code: 1072
+  Phone: 09 570 4455
+  Email: Glen.Innes@kfc.co.nz
+  Longitude: 174.855791
+  Latitude: -36.880433
+  Delivery Charge: 7.99
+  BringgTeam: 16669
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5566
+  Store Name: KFC Kapiti
+  Address: State Highway 1
+  Suburb: Paraparaumu
+  GST: 013-617-171
+  IPAddress: 10.10.66.220
+  Paymark Account: 13564
+  City: Wellington
+  Postal Code: 5032
+  Phone: 04 298 3316
+  Email: Kapiti@kfc.co.nz
+  Longitude: 174.9984527
+  Latitude: -40.9271606
+  Delivery Charge: 7.99
+  BringgTeam: 41779
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 17:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 17:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 17:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 17:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in & Drive through closes at 10 pm. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5567
+  Store Name: KFC Feilding
+  Address: Cnr Kimbolton Rd & Stafford St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.67.220
+  Paymark Account: 13157
+  City: Feilding
+  Postal Code: 4702
+  Phone: 06 323 3448
+  Email: Feilding@kfc.co.nz
+  Longitude: 175.5663782
+  Latitude: -40.22536621
+  Delivery Charge: 7.99
+  BringgTeam: 37195
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 16:00
+  SundayEndTime-delivery: 20:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 16:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 16:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 20:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5568
+  Store Name: KFC Frankton
+  Address: 111 Greenwood Street
+  Suburb: Frankton
+  GST: 013-617-171
+  IPAddress: 10.10.68.220
+  Paymark Account: 11733
+  City: Hamilton
+  Postal Code: 3204
+  Phone: 07 847 5888
+  Email: frankton@kfc.co.nz
+  Longitude: 175.259529
+  Latitude: -37.7900342
+  Delivery Charge: 7.99
+  BringgTeam: 36034
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 25
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5569
+  Store Name: KFC Fairy Springs
+  Address: 15 Fairy Springs Road
+  Suburb: Rotorua
+  GST: 013-617-171
+  IPAddress: 10.10.69.220
+  Paymark Account: 12887
+  City: Rotorua
+  Postal Code: 3015
+  Phone: 07 348 2226
+  Email: fairy.springs@kfc.co.nz
+  Longitude: 176.231035
+  Latitude: -38.123726
+  Delivery Charge: 7.99
+  BringgTeam: 36399
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 16:30
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 16:30
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 16:30
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5570
+  Store Name: KFC Glenfield
+  Address: 256 Glenfield Mall
+  Suburb: Glenfield
+  GST: 013-617-171
+  IPAddress: 10.10.70.220
+  Paymark Account: 12969
+  City: Glenfield
+  Postal Code: 3204
+  Phone: 09 441 6681
+  Email: Glenfield.Mall@kfc.co.nz
+  Longitude: 174.722193
+  Latitude: -36.781945
+  Delivery Charge: 7.99
+  BringgTeam: 37086
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 17:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 17:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 17:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 17:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 20:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 20:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 17:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 17:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 17:30
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 17:30
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 17:30
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 20:30
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 20:30
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 17:30
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5572
+  Store Name: KFC Massey
+  Address: 579 Don Buck Road
+  Suburb: Massey
+  GST: 013-617-171
+  IPAddress: 10.10.72.220
+  Paymark Account: 12793
+  City: West Auckland
+  Postal Code: 614
+  Phone: 09 832 4372
+  Email: massey@kfc.co.nz
+  Longitude: 174.607876
+  Latitude: -36.821589
+  Delivery Charge: 7.99
+  BringgTeam: 36989
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5573
+  Store Name: KFC Te Awamutu
+  Address: 172 Sloane St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.73.220
+  Paymark Account: 13173
+  City: Te Awamutu
+  Postal Code: 3800
+  Phone: 07 871 3555
+  Email: Te.Awamutu@kfc.co.nz
+  Longitude: 175.3255440747268
+  Latitude: -38.01185248998684
+  Delivery Charge: 7.99
+  BringgTeam: 37198
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 14:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 20:00
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 20:00
+  ThursdayStartTime-delivery: 17:00
+  ThursdayEndTime-delivery: 20:00
+  FridayStartTime-delivery: 17:00
+  FridayEndTime-delivery: 20:00
+  SaturdayStartTime-delivery: 17:00
+  SaturdayEndTime-delivery: 20:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5574
+  Store Name: KFC Otahuhu
+  Address: 400 Great South Road
+  Suburb: Otahuhu
+  GST: 013-617-171
+  IPAddress: 10.10.74.220
+  Paymark Account: 12830
+  City: South Auckland
+  Postal Code: 1062
+  Phone: 09 276 2994
+  Email: otahuhu@kfc.co.nz
+  Longitude: 174.8451885
+  Latitude: -36.945864
+  Delivery Charge: 7.99
+  BringgTeam: 36978
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5576
+  Store Name: KFC Masterton
+  Address: Cnr Crayne & Chapel St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.76.220
+  Paymark Account: 13164
+  City: Masterton
+  Postal Code: 5810
+  Phone: 06 3708261
+  Email: Masterton@kfc.co.nz
+  Longitude: 175.6480837
+  Latitude: -40.95692354
+  Delivery Charge: 7.99
+  BringgTeam: 37200
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 15:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 17:30
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 17:30
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 17:30
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 17:30
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 15:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 20:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 20:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5577
+  Store Name: KFC Manurewa
+  Address: 211 Great South Road
+  Suburb: Manurewa
+  GST: 013-617-171
+  IPAddress: 10.10.77.220
+  Paymark Account: 12828
+  City: South Auckland
+  Postal Code: 2102
+  Phone: 09 267 9108
+  Email: manurewa@kfc.co.nz
+  Longitude: 174.8979165
+  Latitude: -37.02389
+  Delivery Charge: 7.99
+  BringgTeam: 36975
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 23:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 23:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 23:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 23:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 23:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 23:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 23:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5578
+  Store Name: KFC Levin
+  Address: 279 Oxford Street
+  Suburb: Levin
+  GST: 013-617-171
+  IPAddress: 10.10.78.220
+  Paymark Account: 13163
+  City: Levin
+  Postal Code: 3204
+  Phone: 06 367 0459
+  Email: Levin@kfc.co.nz
+  Longitude: 175.288962
+  Latitude: -40.619095
+  Delivery Charge: 7.99
+  BringgTeam: 37202
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 13:30
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 13:30
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 13:30
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 13:30
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5579
+  Store Name: KFC Hawera
+  Address: 1 Regent St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.79.220
+  Paymark Account: 13161
+  City: Hawera
+  Postal Code: 4610
+  Phone: 06 278 1019
+  Email: Hawera@kfc.co.nz
+  Longitude: 174.2808002
+  Latitude: -39.5935773
+  Delivery Charge: 7.99
+  BringgTeam: 38744
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5580
+  Store Name: KFC Greymouth
+  Address: 68-72 Tainui St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.80.220
+  Paymark Account: 13160
+  City: Greymouth
+  Postal Code: 7805
+  Phone: 03 768 4768
+  Email: Greymouth@kfc.co.nz
+  Longitude: 171.2103527
+  Latitude: -42.4511858
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5581
+  Store Name: KFC Matamata
+  Address: Cnr Firth St & Peria Rd
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.81.220
+  Paymark Account: 13165
+  City: Matamata
+  Postal Code: 3400
+  Phone: 07 888 5977
+  Email: Matamata@kfc.co.nz
+  Longitude: 175.7703817
+  Latitude: -37.80837263
+  Delivery Charge: 7.99
+  BringgTeam: 38745
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 17:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 17:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 17:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 17:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: Yes
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time
+- StoreId: 5582
+  Store Name: KFC Invercargill South
+  Address: 76 Elles Rd
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.82.220
+  Paymark Account: 12992
+  City: Invercargill
+  Postal Code: 9812
+  Phone: 03 214 0808
+  Email: Invercargill.Sth@kfc.co.nz
+  Longitude: 168.361731
+  Latitude: -46.4187605
+  Delivery Charge: 7.99
+  BringgTeam: 37110
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5583
+  Store Name: KFC Dannevirke
+  Address: 41 High St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.83.220
+  Paymark Account: 13156
+  City: Dannevirke
+  Postal Code: 4930
+  Phone: 06 374 4340
+  Email: Dannevirke@kfc.co.nz
+  Longitude: 176.0967748
+  Latitude: -40.2101502
+  Delivery Charge: 7.99
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5584
+  Store Name: KFC Queenstown
+  Address: 27 Camp St
+  Suburb:
+  GST: 115-303-007
+  IPAddress: 10.10.84.220
+  Paymark Account: 625750
+  City: Queenstown
+  Postal Code: 9300
+  Phone: 03 442 7078
+  Email: Queenstown@kfc.co.nz
+  Longitude: 168.6615088
+  Latitude: -45.0313185
+  Delivery Charge: 7.99
+  BringgTeam:
+  Delivery: N
+  Pickup: N
+  Click And Collect: N
+  Delivery Promise Time: 30
+  Pickup Promise Time: 15
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:30
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:30
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:30
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:30
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:30
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:30
+  FridayEndTime-pickup: 23:00
+  SaturdayStartTime-pickup: 10:30
+  SaturdayEndTime-pickup: 23:00
+  ShutDown: Yes
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5585
+  Store Name: KFC Thames
+  Address: 101 Mary St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.85.220
+  Paymark Account: 13175
+  City: Thames
+  Postal Code: 3500
+  Phone: 07 868 5092
+  Email: Thames@kfc.co.nz
+  Longitude: 175.5401161
+  Latitude: -37.1384059
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store  Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5587
+  Store Name: KFC Gore
+  Address: 165 Main Street
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.87.220
+  Paymark Account: 13159
+  City: Gore
+  Postal Code: 9710
+  Phone: 03 203 9216
+  Email: Gore@kfc.co.nz
+  Longitude: 168.8723731
+  Latitude: -46.18777845
+  Delivery Charge: 7.99
+  BringgTeam: 37111
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5588
+  Store Name: KFC Motueka
+  Address: 276 High St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.88.220
+  Paymark Account: 13166
+  City: Motueka
+  Postal Code: 7120
+  Phone: 03 528 9349
+  Email: Motueka@kfc.co.nz
+  Longitude: 173.0106608
+  Latitude: -41.119479
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 11:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 11:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 11:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 11:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 11:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 11:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 11:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5589
+  Store Name: KFC Huntly
+  Address: 390 Great South Road
+  Suburb: Huntly
+  GST: 013-617-171
+  IPAddress: 10.10.89.220
+  Paymark Account: 13162
+  City: Huntly
+  Postal Code: 3700
+  Phone: 09 1111111
+  Email: Huntly@kfc.co.nz
+  Longitude: 175.158351
+  Latitude: -37.5668050
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5590
+  Store Name: KFC Kaitaia
+  Address: 237-239 Commerce St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.90.220
+  Paymark Account: 12970
+  City: Kaitaia
+  Postal Code: 410
+  Phone: 09 408 0012
+  Email: Kaitaia@kfc.co.nz
+  Longitude: 173.2602316
+  Latitude: -35.1088112
+  Delivery Charge: 7.99
+  BringgTeam: 36991
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 16:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 16:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 16:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n\n"
+- StoreId: 5591
+  Store Name: KFC Alexandra
+  Address: 37 Centennial Ave
+  Suburb: Bridge Hill
+  GST: 013-617-171
+  IPAddress: 10.10.91.220
+  Paymark Account: 13147
+  City: Alexandra
+  Postal Code: 9320
+  Phone: 03 440 2098
+  Email: Alexandra@kfc.co.nz
+  Longitude: 169.3899721
+  Latitude: -45.2527418
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 11:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 11:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 11:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 11:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 11:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 11:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 11:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5592
+  Store Name: KFC Riccarton Mall
+  Address: Riccarton Mall, 129 Riccarton Rd
+  Suburb: Riccarton
+  GST: 076-796-823
+  IPAddress: 10.10.92.220
+  Paymark Account: 625750
+  City: Christchurch
+  Postal Code: 8041
+  Phone: 03 343 1122
+  Email: riccarton.mall@kfc.co.nz
+  Longitude: 172.59813
+  Latitude: -43.531186
+  Delivery Charge: 7.99
+  BringgTeam:
+  Delivery: N
+  Pickup: N
+  Click And Collect: N
+  Delivery Promise Time: 30
+  Pickup Promise Time: 15
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 18:00
+  MondayStartTime-pickup: 9:00
+  MondayEndTime-pickup: 18:00
+  TuesdayStartTime-pickup: 9:00
+  TuesdayEndTime-pickup: 18:00
+  WednesdayStartTime-pickup: 9:00
+  WednesdayEndTime-pickup: 18:00
+  ThursdayStartTime-pickup: 9:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 9:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 9:00
+  SaturdayEndTime-pickup: 18:00
+  ShutDown: Yes
+  Drive Thru: N
+  Krushers: N
+  Store Message:
+- StoreId: 5594
+  Store Name: KFC Lincoln Road
+  Address: 192c Universal Drive,
+  Suburb: Henderson
+  GST: 013-617-171
+  IPAddress: 10.10.94.220
+  Paymark Account: 12871
+  City: West Auckland
+  Postal Code: 610
+  Phone: 09 838 7460
+  Email: Lincoln.Rd@kfc.co.nz
+  Longitude: 174.628166
+  Latitude: -36.856865
+  Delivery Charge: 7.99
+  BringgTeam: 36987
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 10
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5595
+  Store Name: KFC Botany Downs
+  Address: 451 Ti Rakau Drive
+  Suburb: Botany Downs
+  GST: 013-617-171
+  IPAddress: 10.10.95.220
+  Paymark Account: 12866
+  City: Manukau
+  Postal Code: 2013
+  Phone: 09 271 2374
+  Email: botany.downs@kfc.co.nz
+  Longitude: 174.9107
+  Latitude: -36.92913
+  Delivery Charge: 7.99
+  BringgTeam: 36979
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5597
+  Store Name: KFC Quay St
+  Address: 10 Quay Street
+  Suburb: Auckland CBD
+  GST: 013-617-171
+  IPAddress: 10.10.97.220
+  Paymark Account: 12867
+  City: Auckland
+  Postal Code: 3204
+  Phone: 09 302 0063
+  Email: Quay.st@kfc.co.nz
+  Longitude: 174.78006
+  Latitude: -36.847596
+  Delivery Charge: 7.99
+  BringgTeam: 36982
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5598
+  Store Name: KFC Rangitikei Street
+  Address: 201 Rangitikei St
+  Suburb: Palmerston North
+  GST: 013-617-171
+  IPAddress: 10.10.98.220
+  Paymark Account: 12959
+  City: Palmerston North
+  Postal Code: 3204
+  Phone: 06 353 3273
+  Email: Rangitikei@kfc.co.nz
+  Longitude: 175.606904
+  Latitude: -40.351192
+  Delivery Charge: 7.99
+  BringgTeam: 35951
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in & Drive through closes at 10 pm. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5599
+  Store Name: KFC Te Puke
+  Address: 150 Jellicoe St
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.99.220
+  Paymark Account: 13174
+  City: Te Puke
+  Postal Code: 3119
+  Phone: 07 573 0128
+  Email: Te.Puke@kfc.co.nz
+  Longitude: 176.3243962
+  Latitude: -37.7828986
+  Delivery Charge: 0.00
+  BringgTeam: 37215
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 16:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 16:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 16:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store  Message: Dine in closes at 9 pm. Drive through open until midnight.
+- StoreId: 5600
+  Store Name: KFC Lynfield
+  Address: 570 Hillsborough Road
+  Suburb: Lynfield
+  GST: 013-617-171
+  IPAddress: 10.11.0.220
+  Paymark Account: 12872
+  City: West Auckland
+  Postal Code: 1041
+  Phone: 09 627 6514
+  Email: Lynfield@kfc.co.nz
+  Longitude: 174.722344
+  Latitude: -36.924687
+  Delivery Charge: 7.99
+  BringgTeam: 37088
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in closes at 11 pm. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5603
+  Store Name: KFC Rototuna
+  Address: 44 Horsham Downs Road
+  Suburb: Rototuna
+  GST: 013-617-171
+  IPAddress: 10.11.3.220
+  Paymark Account: 11736
+  City: Hamilton
+  Postal Code: 3210
+  Phone: 07 852 5910
+  Email: rototuna@kfc.co.nz
+  Longitude: 175.2742402
+  Latitude: -37.7281689
+  Delivery Charge: 7.99
+  BringgTeam: 36036
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5604
+  Store Name: KFC Greenlane
+  Address: 243-245 Great South Road
+  Suburb: Greenlane
+  GST: 013-617-171
+  IPAddress: 10.11.4.220
+  Paymark Account: 12822
+  City: Central Auckland
+  Postal Code: 1051
+  Phone: 09 520 5233
+  Email: Greenlane@kfc.co.nz
+  Longitude: 174.796285
+  Latitude: -36.8925527
+  Delivery Charge: 7.99
+  BringgTeam: 16669
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: N
+  Store Message: Dine in and drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5605
+  Store Name: KFC Point Chev
+  Address: 1170 Great North Road
+  Suburb: Point Chevalier
+  GST: 013-617-171
+  IPAddress: 10.11.5.220
+  Paymark Account: 12823
+  City: Central Auckland
+  Postal Code: 1022
+  Phone: 09 845 0355
+  Email: point.chev@kfc.co.nz
+  Longitude: 174.711548
+  Latitude: -36.870173
+  Delivery Charge: 7.99
+  BringgTeam: 37088
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store  Message: Dine in and drive through open until midnight. Last order for delivery is half an hour before delivery closing time.
+- StoreId: 5606
+  Store Name: KFC Gate Pa
+  Address: 1010 Cameron Road
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.11.6.220
+  Paymark Account: 11798
+  City: Tauranga
+  Postal Code: 3210
+  Phone: 07 578 5422
+  Email: Gate.Pa@kfc.co.nz
+  Longitude: 176.14148
+  Latitude: -37.71431
+  Delivery Charge: 7.99
+  BringgTeam: 36409
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 18:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 18:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 13:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 13:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 13:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 18:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5607
+  Store Name: KFC The Base
+  Address: Corner Te Rapa Rd and Avalon Dr
+  Suburb: Te Rapa
+  GST: 013-617-171
+  IPAddress: 10.11.7.220
+  Paymark Account: 13176
+  City: Hamilton
+  Postal Code: 3200
+  Phone: 07 849 2478
+  Email: The.Base@kfc.co.nz
+  Longitude: 175.236964
+  Latitude: -37.750364
+  Delivery Charge: 7.99
+  BringgTeam: 36036
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 15:00
+  SundayEndTime-delivery: 17:30
+  MondayStartTime-delivery: 15:00
+  MondayEndTime-delivery: 17:30
+  TuesdayStartTime-delivery: 15:00
+  TuesdayEndTime-delivery: 17:30
+  WednesdayStartTime-delivery: 15:00
+  WednesdayEndTime-delivery: 17:30
+  ThursdayStartTime-delivery: 15:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 15:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 15:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 18:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 18:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 18:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 18:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5608
+  Store Name: KFC Papamoa
+  Address: 1 Gravatt Road
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.11.8.220
+  Paymark Account: 11800
+  City: Papamoa
+  Postal Code: 3204
+  Phone: 07 574 3017
+  Email: Papamoa@kfc.co.nz
+  Longitude: 176.284439
+  Latitude: -37.701063
+  Delivery Charge: 7.99
+  BringgTeam: 36408
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 18:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 18:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 18:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 18:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 18:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 18:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 18:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5609
+  Store Name: KFC Auckland Airport International Terminal
+  Address: Level 1 International Terminal
+  Suburb: Mangere
+  GST: 52-695-839
+  IPAddress: 10.11.9.220
+  Paymark Account: 625750
+  City: Manukau
+  Postal Code: 2022
+  Phone: 09 256 8669
+  Email: Airport@kfc.co.nz
+  Longitude: 174.782772
+  Latitude: -37.005497
+  Delivery Charge:
+  BringgTeam:
+  Delivery: N
+  Pickup: N
+  Click And Collect: N
+  Delivery Promise Time: 30
+  Pickup Promise Time: 15
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery:
+  SundayEndTime-delivery:
+  MondayStartTime-delivery:
+  MondayEndTime-delivery:
+  TuesdayStartTime-delivery:
+  TuesdayEndTime-delivery:
+  WednesdayStartTime-delivery:
+  WednesdayEndTime-delivery:
+  ThursdayStartTime-delivery:
+  ThursdayEndTime-delivery:
+  FridayStartTime-delivery:
+  FridayEndTime-delivery:
+  SaturdayStartTime-delivery:
+  SaturdayEndTime-delivery:
+  SundayStartTime-pickup: 9:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 9:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 9:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 9:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 9:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 9:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 9:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: Yes
+  Drive Thru: N
+  Krushers: Y
+  Store Message:
+- StoreId: 5610
+  Store Name: KFC Silverdale
+  Address: 61 Silverdale Street
+  Suburb: Silverdale
+  GST: 013-617-171
+  IPAddress: 10.11.10.220
+  Paymark Account: 12817
+  City: North Shore
+  Postal Code: 932
+  Phone: 09 421 0883
+  Email: Silverdale@kfc.co.nz
+  Longitude: 174.679549
+  Latitude: -36.613839
+  Delivery Charge: 7.99
+  BringgTeam: 36984
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 35
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 16:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 16:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 16:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 23:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 23:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 23:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 23:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 23:45
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 23:45
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 23:45
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in and drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5611
+  Store Name: KFC Cambridge
+  Address: Cnr Victoria & Queen Sts
+  Suburb: Leamington
+  GST: 013-617-171
+  IPAddress: 10.10.65.220
+  Paymark Account: 13154
+  City: Cambridge
+  Postal Code: 3434
+  Phone: 07 827 8295
+  Email: Cambridge@kfc.co.nz
+  Longitude: 175.4674584
+  Latitude: -37.8915944
+  Delivery Charge: 7.99
+  BringgTeam: 38751
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Last order for Delivery is half an hour before store closure.
+- StoreId: 5612
+  Store Name: KFC KFC Auckland Airport
+  Address: Airport Shopping Centre Corner George Bolt Memorial Drive and John Goulter Drive
+  Suburb: Auckland Airport
+  GST: 013-617-171
+  IPAddress: 10.11.12.220
+  Paymark Account: 13150
+  City: South Auckland
+  Postal Code: 2022
+  Phone: 09 275 7326
+  Email: Auckland.Airport@kfc.co.nz
+  Longitude: 174.787162
+  Latitude: -36.996864
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery:
+  SundayEndTime-delivery:
+  MondayStartTime-delivery:
+  MondayEndTime-delivery:
+  TuesdayStartTime-delivery:
+  TuesdayEndTime-delivery:
+  WednesdayStartTime-delivery:
+  WednesdayEndTime-delivery:
+  ThursdayStartTime-delivery:
+  ThursdayEndTime-delivery:
+  FridayStartTime-delivery:
+  FridayEndTime-delivery:
+  SaturdayStartTime-delivery:
+  SaturdayEndTime-delivery:
+  SundayStartTime-pickup: 9:00
+  SundayEndTime-pickup: 23:55
+  MondayStartTime-pickup: 9:00
+  MondayEndTime-pickup: 23:55
+  TuesdayStartTime-pickup: 9:00
+  TuesdayEndTime-pickup: 23:55
+  WednesdayStartTime-pickup: 9:00
+  WednesdayEndTime-pickup: 23:55
+  ThursdayStartTime-pickup: 9:00
+  ThursdayEndTime-pickup: 23:55
+  FridayStartTime-pickup: 9:00
+  FridayEndTime-pickup: 23:55
+  SaturdayStartTime-pickup: 9:00
+  SaturdayEndTime-pickup: 23:55
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Restaurant floor closes at 10pm
+- StoreId: 5613
+  Store Name: KFC Mt Maunganui
+  Address: 145 Newton Street
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.71.220
+  Paymark Account: 11799
+  City: Mt Maunganui
+  Postal Code: 3204
+  Phone: 07 572 4035
+  Email: Mt.Maunganui@kfc.co.nz
+  Longitude: 176.206949
+  Latitude: -37.664653
+  Delivery Charge: 7.99
+  BringgTeam: 36408
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 22:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 21:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 20:00
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 17:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 17:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 20:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 20:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 20:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 20:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 20:00
+  ShutDown: Yes
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5614
+  Store Name: KFC Albany
+  Address: 256 Oteha Valley Road
+  Suburb: Albany
+  GST: 013-617-171
+  IPAddress: 10.11.14.220
+  Paymark Account: 12815
+  City: Albany
+  Postal Code: 3204
+  Phone: 09 414 2172
+  Email: Albany@kfc.co.nz
+  Longitude: 174.709293
+  Latitude: -36.720815
+  Delivery Charge: 7.99
+  BringgTeam: 37087
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 11 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5615
+  Store Name: KFC Oamaru
+  Address: Corner Usk & Thames Sts
+  Suburb:
+  GST: 013-617-171
+  IPAddress: 10.10.64.220
+  Paymark Account: 13168
+  City: Oamaru
+  Postal Code: 9400
+  Phone: 03 434 7377
+  Email: Oamaru@kfc.co.nz
+  Longitude: 170.9731611
+  Latitude: -45.0935983
+  Delivery Charge: 7.99
+  BringgTeam: 37221
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 21:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 21:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 21:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 21:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 21:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 21:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5616
+  Store Name: KFC Christchurch Airport
+  Address: 512 Memorial Avenue
+  Suburb: Christchurch Airport
+  GST: 013-617-171
+  IPAddress: 10.11.16.220
+  Paymark Account: 12802
+  City: Christchurch
+  Postal Code: 8053
+  Phone: 03 358 5630
+  Email: christchurch.airport@kfc.co.nz
+  Longitude: 172.54882
+  Latitude: -43.491121
+  Delivery Charge: 7.99
+  BringgTeam: 36607
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in and drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n\n"
+- StoreId: 5617
+  Store Name: KFC Rolleston
+  Address: 7 Tennyson Street
+  Suburb: Rolleston
+  GST: 013-617-171
+  IPAddress: 10.11.17.220
+  Paymark Account: 12977
+  City: Christchurch
+  Postal Code: 7614
+  Phone: 03 347 0256
+  Email: rolleston@kfc.co.nz
+  Longitude: 172.379671
+  Latitude: -43.59112
+  Delivery Charge: 7.99
+  BringgTeam: 36575
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in closes at 11 pm. Drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5618
+  Store Name: KFC Fort Street
+  Address: 4 Fort Street
+  Suburb: Central Auckland
+  GST: 013-617-171
+  IPAddress: 10.11.18.220
+  Paymark Account: 13158
+  City: Auckland
+  Postal Code: 3204
+  Phone: 09 366 3011
+  Email: Fort.st@kfc.co.nz
+  Longitude: 174.766751
+  Latitude: -36.845843
+  Delivery Charge: 0.00
+  BringgTeam: 36983
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 10:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 10:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 10:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 10:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 10:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 10:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in closes at 10 pm. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5619
+  Store Name: KFC Courtenay Place
+  Address: 60 Courtney Place
+  Suburb: Te Aro
+  GST: 013-617-171
+  IPAddress: 10.11.19.220
+  Paymark Account: 13155
+  City: Wellington
+  Postal Code: 6011
+  Phone: 04 801 5407
+  Email: Courtenay.Place@kfc.co.nz
+  Longitude: 174.7809803
+  Latitude: -41.2932153
+  Delivery Charge: 7.99
+  BringgTeam: 34642
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 21:00
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: Dine in open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5620
+  Store Name: KFC Bombay
+  Address: 1 Mill Road
+  Suburb: Bombay
+  GST: 013-617-171
+  IPAddress: 10.11.20.220
+  Paymark Account: 13153
+  City: Auckland
+  Postal Code: 3204
+  Phone: 09 236 0615
+  Email: Bombay@kfc.co.nz
+  Longitude: 174.983188
+  Latitude: -37.192601
+  Delivery Charge: 0.00
+  BringgTeam: 37222
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 16:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 16:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 16:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 16:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 16:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 22:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 22:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 22:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 22:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 22:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 22:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 22:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in and drive through open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5621
+  Store Name: KFC Tauranga Crossing
+  Address: 2 Taurikura Drive
+  Suburb: Tauranga
+  GST: 013-617-171
+  IPAddress: 10.11.21.220
+  Paymark Account: 13172
+  City: Tauranga
+  Postal Code: 3204
+  Phone: 07 5430526
+  Email: Tauranga.Crossing@kfc.co.nz
+  Longitude: 176.1053834
+  Latitude: -37.7383423
+  Delivery Charge: 7.99
+  BringgTeam: 36409
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 16:00
+  SundayEndTime-delivery: 16:00
+  MondayStartTime-delivery: 16:00
+  MondayEndTime-delivery: 16:00
+  TuesdayStartTime-delivery: 16:00
+  TuesdayEndTime-delivery: 16:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 16:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 16:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 16:00
+  SaturdayStartTime-delivery: 14:00
+  SaturdayEndTime-delivery: 16:00
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 18:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 18:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 18:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 18:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 18:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 18:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 18:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: N
+  Store Message: Restaurant floor closes at 7 PM, and 8 PM on Thursdays. Last order for Delivery is half an hour before store closure.
+- StoreId: 5622
+  Store Name: KFC Christchurch CBD
+  Address: 703 Colombo Street
+  Suburb: Christchurch Central City
+  GST: 013-617-171
+  IPAddress: 10.11.22.220
+  Paymark Account: 13015
+  City: Christchurch
+  Postal Code: 8011
+  Phone: 03 365 1981
+  Email: christchurch.cbd@kfc.co.nz
+  Longitude: 172.636316
+  Latitude: -43.532289
+  Delivery Charge: 7.99
+  BringgTeam: 36605
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 10:30
+  SundayEndTime-delivery: 21:30
+  MondayStartTime-delivery: 10:30
+  MondayEndTime-delivery: 21:30
+  TuesdayStartTime-delivery: 10:30
+  TuesdayEndTime-delivery: 21:30
+  WednesdayStartTime-delivery: 10:30
+  WednesdayEndTime-delivery: 21:30
+  ThursdayStartTime-delivery: 10:30
+  ThursdayEndTime-delivery: 21:30
+  FridayStartTime-delivery: 10:30
+  FridayEndTime-delivery: 21:30
+  SaturdayStartTime-delivery: 10:30
+  SaturdayEndTime-delivery: 21:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 23:30
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 23:30
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 23:30
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 23:30
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 23:30
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 23:30
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 23:30
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Dine in open until midnight. Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5623
+  Store Name: KFC Newmarket
+  Address: Tenancy s356/277 Broadway
+  Suburb: New Market
+  GST: 013-617-171
+  IPAddress: 10.11.23.220
+  Paymark Account: 12895
+  City: Auckland
+  Postal Code: 1023
+  Phone: 09 520 2466
+  Email: newmarket@kfc.co.nz
+  Longitude: 174.776431
+  Latitude: -36.87098
+  Delivery Charge: 0.00
+  BringgTeam:
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 15
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 19:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 19:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 19:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 19:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 19:00
+  ShutDown: No
+  Drive Thru: N
+  Krushers: N
+  Store Message:
+- StoreId: 5624
+  Store Name: KFC West City
+  Address: 7 Catherine St Henderson
+  Suburb: Waitakere
+  GST: 013-617-171
+  IPAddress: 10.11.24.220
+  Paymark Account: 12902
+  City: West Auckland
+  Postal Code: 3204
+  Phone: 09 835 1136
+  Email: West.City@kfc.co.nz
+  Longitude: 174.6329154
+  Latitude: -36.8819469
+  Delivery Charge: 7.99
+  BringgTeam: 36987
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 17:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 17:30
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 17:30
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 17:30
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 17:30
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 17:30
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 17:30
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 17:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 17:30
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 17:30
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 17:30
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 17:30
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 17:30
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 17:30
+  ShutDown: No
+  Drive Thru: N
+  Krushers: Y
+  Store Message: "Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5625
+  Store Name: KFC Bayfair
+  Address: Bayfair Shopping Centre 19 Girven Rd Bayfair, Mount Maunganui, Tauranga 3116, New Zealand
+  Suburb: Bayfair
+  GST: 013-617-171
+  IPAddress: 10.11.25.220
+  Paymark Account: 13151
+  City: Mount Maunganui
+  Postal Code: 3116
+  Phone: 07 572 1178
+  Email: Bayfair@kfc.co.nz
+  Longitude: 176.2244022
+  Latitude: -37.674895
+  Delivery Charge: 0.00
+  BringgTeam: 36408
+  Delivery: N
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 17:00
+  SundayEndTime-delivery: 17:30
+  MondayStartTime-delivery: 17:00
+  MondayEndTime-delivery: 17:30
+  TuesdayStartTime-delivery: 17:00
+  TuesdayEndTime-delivery: 17:30
+  WednesdayStartTime-delivery: 17:00
+  WednesdayEndTime-delivery: 17:30
+  ThursdayStartTime-delivery: 17:00
+  ThursdayEndTime-delivery: 17:30
+  FridayStartTime-delivery: 17:00
+  FridayEndTime-delivery: 17:30
+  SaturdayStartTime-delivery: 17:00
+  SaturdayEndTime-delivery: 17:30
+  SundayStartTime-pickup: 09:00
+  SundayEndTime-pickup: 18:00
+  MondayStartTime-pickup: 09:00
+  MondayEndTime-pickup: 18:00
+  TuesdayStartTime-pickup: 09:00
+  TuesdayEndTime-pickup: 18:00
+  WednesdayStartTime-pickup: 09:00
+  WednesdayEndTime-pickup: 18:00
+  ThursdayStartTime-pickup: 09:00
+  ThursdayEndTime-pickup: 21:00
+  FridayStartTime-pickup: 09:00
+  FridayEndTime-pickup: 21:00
+  SaturdayStartTime-pickup: 09:00
+  SaturdayEndTime-pickup: 18:00
+  ShutDown: Yes
+  Drive Thru: N
+  Krushers: N
+  Store Message: "Last order for delivery is half an hour before delivery closing time.\n"
+- StoreId: 5627
+  Store Name: KFC Takanini
+  Address: 1 Beach Road
+  Suburb: Takanini
+  GST: 013-617-171
+  IPAddress: 10.11.27.220
+  Paymark Account: 13643
+  City: Auckland
+  Postal Code: 2112
+  Phone: 09 520 0982
+  Email: Takanini@kfc.co.nz
+  Longitude: 174.92378
+  Latitude: -37.04579
+  Delivery Charge: 7.99
+  BringgTeam: 36974
+  Delivery: Y
+  Pickup: Y
+  Click And Collect: Y
+  Delivery Promise Time: 30
+  Pickup Promise Time: 10
+  Minimum Amount Delivery: 20.00
+  Minimum Amount Pickup: 0.00
+  Maximum Amount Delivery: 9999.00
+  Maximum Amount Pickup: 9999.00
+  FutureOrderDayLimitDelivery: 7
+  FutureOrderDayLimitPickup: 14
+  SundayStartTime-delivery: 11:00
+  SundayEndTime-delivery: 22:00
+  MondayStartTime-delivery: 11:00
+  MondayEndTime-delivery: 22:00
+  TuesdayStartTime-delivery: 11:00
+  TuesdayEndTime-delivery: 22:00
+  WednesdayStartTime-delivery: 11:00
+  WednesdayEndTime-delivery: 22:00
+  ThursdayStartTime-delivery: 11:00
+  ThursdayEndTime-delivery: 22:00
+  FridayStartTime-delivery: 11:00
+  FridayEndTime-delivery: 22:00
+  SaturdayStartTime-delivery: 11:00
+  SaturdayEndTime-delivery: 22:00
+  SundayStartTime-pickup: 10:00
+  SundayEndTime-pickup: 23:00
+  MondayStartTime-pickup: 10:00
+  MondayEndTime-pickup: 23:00
+  TuesdayStartTime-pickup: 10:00
+  TuesdayEndTime-pickup: 23:00
+  WednesdayStartTime-pickup: 10:00
+  WednesdayEndTime-pickup: 23:00
+  ThursdayStartTime-pickup: 10:00
+  ThursdayEndTime-pickup: 23:00
+  FridayStartTime-pickup: 10:00
+  FridayEndTime-pickup: 23:00
+  SaturdayStartTime-pickup: 10:00
+  SaturdayEndTime-pickup: 23:00
+  ShutDown: No
+  Drive Thru: Y
+  Krushers: Y
+  Store Message: Last order for delivery is half an hour before delivery closing time.

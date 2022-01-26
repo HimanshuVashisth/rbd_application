@@ -5,6 +5,7 @@ async function queryOrderByOrdNumStoreID(sql, params) {
     const connection = await mysql.createPool(config.db);
     const [results] = await connection.execute(sql, params);
 
+    connection
     return results.length;
 }
 

@@ -3,6 +3,8 @@ const router = express.Router();
 const details = require('./data/order');
 const Joi = require('joi');
 // const validate = require('./services/validate');
+const loadStores = require('./stores');
+const process = require('./services/process');
 
 /**
  * @swagger
@@ -81,6 +83,19 @@ router.get('/', async function (req, res) {
         const ordNumber = req.query.orderId;
         const storeNumber = req.query.storeId;
 
+        if (storeNumber != null)
+            var dbConfig = loadStores.findStoreDetails(storeNumber); // , port, username, password, database 
+
+        console.log('Ip Address inside routes.js', (await dbConfig).ipAddress);
+        console.log('Port inside routes.js', (await dbConfig).port);
+        console.log('username inside routes.js', (await dbConfig).username);
+        console.log('password inside routes.js', (await dbConfig).password);
+        console.log('database inside routes.js', (await dbConfig).database);
+
+        // Save store POS db details in ENV
+        process.saveStoreValuesInProcessEnv((await dbConfig).ipAddress, (await dbConfig).port, (await dbConfig).username,
+            (await dbConfig).password, (await dbConfig).database);
+
         // validate.input(ordNumber, storeNumber);
         // validate request body against schema
         // const { error, value } = schema.validate(req.query, options);
@@ -90,7 +105,7 @@ router.get('/', async function (req, res) {
         // } else {
         //     console.log(value);
         // on success invoke function to get Order details
-        const results = await details.getOrderByOrdNumStoreID(ordNumber, storeNumber);
+        const results = await details.getOrderByOrdNumStoreID(ordNumber);
 
         if (results.details != 0)
             res.json({ 'status': 'READY' });
