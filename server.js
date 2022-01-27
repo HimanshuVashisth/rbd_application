@@ -5,7 +5,6 @@ const genericRouter = require('./routes');
 const swaggerJSDoc = require('swagger-jsdoc');
 const swaggerUI = require('swagger-ui-express');
 
-
 /**
  * Swagger
  * Extended: https://swagger.io/specification/#infoObject
@@ -59,7 +58,7 @@ app.use((err, req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Order API listening at http://localhost:${port}`)
+    console.info(`Order API listening at http://localhost:${port}`)
 });
 
 module.exports = {
