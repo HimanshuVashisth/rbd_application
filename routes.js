@@ -107,9 +107,6 @@ router.get('/', async function (req, res) {
 
         else
             res.json({ 'status': 'PENDING' });
-        // }
-
-        // next();
 
     } catch (err) {
         console.error(`Error while getting order details `, err.message);
