@@ -85,11 +85,11 @@ router.get('/', async function (req, res) {
         if (storeNumber != null)
             var dbConfig = loadStores.findStoreDetails(storeNumber); // , port, username, password, database 
 
-        console.log('Ip Address inside routes.js', (await dbConfig).ipAddress);
-        console.log('Port inside routes.js', (await dbConfig).port);
-        console.log('username inside routes.js', (await dbConfig).username);
-        console.log('password inside routes.js', (await dbConfig).password);
-        console.log('database inside routes.js', (await dbConfig).database);
+        console.info('Ip Address inside routes.js', (await dbConfig).ipAddress);
+        console.info('Port inside routes.js', (await dbConfig).port);
+        console.info('username inside routes.js', (await dbConfig).username);
+        console.info('password inside routes.js', (await dbConfig).password);
+        console.info('database inside routes.js', (await dbConfig).database);
 
         // validate.input(ordNumber, storeNumber);
         // validate request body against schema
@@ -102,7 +102,6 @@ router.get('/', async function (req, res) {
         // on success invoke function to get Order details
         const results = await details.getOrderByOrdNumStoreID(ordNumber);
 
-        console.debug(results.details);
         if (results.details != 0)
             res.json({ 'status': 'READY' });
 
