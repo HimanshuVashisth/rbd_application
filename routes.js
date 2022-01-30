@@ -1,10 +1,10 @@
 const express = require('express');
 const router = express.Router();
-const details = require('./data/order');
 const Joi = require('joi');
-// const validate = require('./services/validate');
-const loadStores = require('./stores');
-const process = require('./services/process');
+const loadStores = require('./data/stores');
+const posDb = require('./services/posDbConnector');
+const fetchOrder = require('./services/fetchOrder');
+const logger = require('./logger/logger');
 
 /**
  * @swagger
@@ -30,9 +30,6 @@ const process = require('./services/process');
  *              storeId: 141
  *              status: PENDING or READY
  */
-
-
-
 
 const schema = Joi.object({
     orderId: Joi.number().min(5).required,
@@ -86,15 +83,15 @@ router.get('/', async function (req, res) {
         if (storeNumber != null)
             var dbConfig = loadStores.findStoreDetails(storeNumber); // , port, username, password, database 
 
-        console.log('Ip Address inside routes.js', (await dbConfig).ipAddress);
-        console.log('Port inside routes.js', (await dbConfig).port);
-        console.log('username inside routes.js', (await dbConfig).username);
-        console.log('password inside routes.js', (await dbConfig).password);
-        console.log('database inside routes.js', (await dbConfig).database);
+        const ip = (await dbConfig).ipAddress;
+        const dbPort = (await dbConfig).port;
+        const uname = (await dbConfig).username;
+        const pwd = (await dbConfig).password;
+        const dbName = (await dbConfig).database;
 
-        // Save store POS db details in ENV
-        process.saveStoreValuesInProcessEnv((await dbConfig).ipAddress, (await dbConfig).port, (await dbConfig).username,
-            (await dbConfig).password, (await dbConfig).database);
+        const storeConn = posDb.connectToStore(ip, dbPort, uname, pwd, dbName);
+        const results = await fetchOrder.fetchOrderByNumber(ordNumber);
+        logger.info('Get order by num');
 
         // validate.input(ordNumber, storeNumber);
         // validate request body against schema
@@ -105,19 +102,9 @@ router.get('/', async function (req, res) {
         // } else {
         //     console.log(value);
         // on success invoke function to get Order details
-        const results = await details.getOrderByOrdNumStoreID(ordNumber);
-
-        if (results.details != 0)
-            res.json({ 'status': 'READY' });
-
-        else
-            res.json({ 'status': 'PENDING' });
-        // }
-
-        // next();
 
     } catch (err) {
-        console.error(`Error while getting order details `, err.message);
+        logger.error(`Error while connecting to store `, err.message);
     }
 });
 

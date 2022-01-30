@@ -1,10 +1,12 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const port = process.env.PORT || 3000;
 const genericRouter = require('./routes');
 const swaggerJSDoc = require('swagger-jsdoc');
 const swaggerUI = require('swagger-ui-express');
+const config = require('./config');
+const logger = require('./logger/logger');
 
+logger.info(`NODE_ENV=${config.NODE_ENV}`);
 
 /**
  * Swagger
@@ -17,13 +19,13 @@ const options = {
             title: "Order API",
             version: "1.0.0",
             description: "Order API using Express & NodeJs",
-            contact: "Team Himanshu Nisha Dev Ninjas",
+            contact: "Himanshu Dev Ninja",
             url: "http://www.sas-it.com/support",
             email: "support@sasit.com"
         },
         servers: [
             {
-                url: "http://localhost:3000"
+                url: `http://${config.HOST}:${config.PORT}`
             }
         ]
     },
@@ -52,14 +54,14 @@ app.use('/api/order', genericRouter);
 /* Error handler middleware */
 app.use((err, req, res) => {
     const statusCode = err.statusCode || 500;
-    console.error(err.message, err.stack);
+    logger.error(err.message, err.stack);
     res.status(statusCode).json({ 'message': err.message });
 
     return;
 });
 
-app.listen(port, () => {
-    console.log(`Order API listening at http://localhost:${port}`)
+app.listen(config.PORT, () => {
+    logger.info(`Order API listening at http://${config.HOST}:${config.PORT}`)
 });
 
 module.exports = {
