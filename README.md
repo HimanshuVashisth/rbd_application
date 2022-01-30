@@ -35,8 +35,8 @@ NodeJs API using ExpressJS MySql Swagger Jest
 * Latency and response time
 * API throttling: Usage by users in a particular time period.
 
-# Monitoring and Error handling (Confirm with Gary)
-* Create .log file by date in a directory
+# Logging, Monitoring and Error handling (Confirm with Gary)
+* Create application.log file in project directory
 * HTTP status codes: Anything other than 200 shall be considered error.
 * Alarm when health check is not ok.
 
