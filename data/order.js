@@ -1,8 +1,7 @@
 const db = require('./db');
-const config = require('../config');
 
-async function getOrderByOrdNumStoreID(ordNumber) {
-    const details = await db.queryOrderByOrdNumStoreID(
+async function getOrderByNum(ordNumber) {
+    const details = await db.queryOrderByOrdNum(
         'SELECT * FROM ORDERS WHERE SHIPPEDDATE IS NOT NULL AND ORDERNUMBER = ?',
         [ordNumber]
     );
@@ -14,5 +13,5 @@ async function getOrderByOrdNumStoreID(ordNumber) {
 }
 
 module.exports = {
-    getOrderByOrdNumStoreID
+    getOrderByNum
 }
