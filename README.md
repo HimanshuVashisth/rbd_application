@@ -41,7 +41,7 @@ gitlab.com
 * API throttling: Usage by users in a particular time period.
 
 # Logging, Monitoring and Error handling (Confirm with Gary)
-* Create .log file by date in a directory
+* Create application.log file in project directory
 * HTTP status codes: Anything other than 200 shall be considered error.
 * Alarm when health check is not ok. - No 
 
