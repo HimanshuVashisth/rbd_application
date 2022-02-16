@@ -22,7 +22,9 @@
     "nanoid": "^3.2.0",
     "swagger-jsdoc": "^6.1.0",
     "swagger-ui-express": "^4.3.0",
-    "winston": "^3.5.0"
+    "util": "^0.12.4",
+    "winston": "^3.5.0",
+    "winston-daily-rotate-file": "^4.6.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",

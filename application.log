@@ -1,5 +1,30 @@
-2022-01-30T08:30:08.141Z [info] NODE_ENV=local
-2022-01-30T08:30:08.158Z [info] Order API listening at http://localhost:3000
-2022-01-30T08:30:14.670Z [info] Inside queryOrderByOrdNum
-2022-01-30T08:30:14.671Z [info] created connection
-2022-01-30T08:30:14.690Z [error] Error while connecting to store 
+2022-02-09T05:49:12.115Z [info] NODE_ENV=local
+2022-02-09T05:49:12.147Z [info] Order API listening at http://localhost:3000
+2022-02-09T06:09:16.547Z [info] NODE_ENV=local
+2022-02-09T06:09:16.578Z [info] Order API listening at http://localhost:3000
+2022-02-09T06:11:59.227Z [info] NODE_ENV=local
+2022-02-09T06:11:59.260Z [info] Order API listening at http://localhost:3000
+2022-02-09T06:12:34.654Z [info] NODE_ENV=local
+2022-02-09T06:12:34.686Z [info] Order API listening at http://localhost:3000
+2022-02-09T06:12:39.896Z [info] Application Health check
+2022-02-09T06:13:33.839Z [info] Health check by storeId
+2022-02-09T06:13:33.841Z [info] store: %s 
+2022-02-09T06:13:33.956Z [info] Inside queryOrderByOrdNum
+2022-02-09T06:13:33.960Z [info] created connection
+2022-02-09T06:13:33.971Z [error] Error while connecting to store 
+2022-02-16T09:33:09.664Z [info] NODE_ENV=local
+2022-02-16T09:33:09.699Z [info] Order API listening at http://localhost:3000
+2022-02-16T09:33:41.504Z [info] Inside routes function
+2022-02-16T09:33:41.505Z [info] order: %s 
+2022-02-16T09:33:41.505Z [info] store: %s 
+2022-02-16T09:33:41.591Z [info] Inside queryOrderByOrdNum
+2022-02-16T09:33:41.595Z [info] created connection
+2022-02-16T09:33:41.608Z [error] Error while connecting to store 
+2022-02-16T09:34:21.437Z [info] NODE_ENV=local
+2022-02-16T09:34:21.477Z [info] Order API listening at http://localhost:3000
+2022-02-16T09:34:25.287Z [info] Inside routes function
+2022-02-16T09:34:25.288Z [info] order: %s 
+2022-02-16T09:34:25.288Z [info] store: %s 
+2022-02-16T09:34:25.363Z [info] Inside queryOrderByOrdNum
+2022-02-16T09:34:25.367Z [info] created connection
+2022-02-16T09:34:25.380Z [error] Error while connecting to store 

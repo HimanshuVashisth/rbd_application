@@ -1,8 +1,19 @@
 const db = require('./db');
 
+async function getTestOrder() {
+    const ordSummary = await db.queryOrderByOrdNum(
+        'SELECT * FROM ORDERS where ROWNUM = 1'
+    );
+
+    return {
+        ordSummary
+    }
+
+}
+
 async function getOrderByNum(ordNumber) {
     const details = await db.queryOrderByOrdNum(
-        'SELECT * FROM ORDERS WHERE SHIPPEDDATE IS NOT NULL AND ORDERNUMBER = ?',
+        'SELECT SHIPPEDDATE FROM ORDERS WHERE ORDERNUMBER = ?',
         [ordNumber]
     );
 
@@ -13,5 +24,5 @@ async function getOrderByNum(ordNumber) {
 }
 
 module.exports = {
-    getOrderByNum
+    getTestOrder, getOrderByNum
 }

@@ -1,15 +1,21 @@
 const details = require('../data/order');
 
+async function testQuery() {
+    const testResults = await details.getTestOrder();
+
+    return testResults;
+}
+
 async function fetchOrderByNumber(ordNumber) {
     const results = await details.getOrderByNum(ordNumber);
 
-    if (results.details != 0)
-        res.json({ 'status': 'READY' });
+    if (results != null)
+        res.json({ 'status': results });
 
     else
-        res.json({ 'status': 'PENDING' });
+        res.json({ 'status': null });
 
     return results;
 }
 
-module.exports = { fetchOrderByNumber };
+module.exports = { testQuery, fetchOrderByNumber };
