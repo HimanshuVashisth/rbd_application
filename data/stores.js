@@ -5,7 +5,7 @@ const config = require('../config');
 async function findStoreDetails(storeNumber) {
     // Get document, or throw exception on error
     try {
-        const fileContents = fs.readFileSync('./data/Store_details.yaml', 'utf8');
+        const fileContents = fs.readFileSync('Store_details.yaml', 'utf8');
         const data = yaml.load(fileContents);
         // Retrieve only 1 store information
         const store = data.findByValueOfObject("StoreId", parseInt(storeNumber));
