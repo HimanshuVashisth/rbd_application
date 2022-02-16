@@ -31,10 +31,10 @@ const logger = require('./logger/logger');
  *              status: PENDING or READY
  */
 
-const schema = Joi.object({
-    orderId: Joi.number().min(5).required,
-    storeId: Joi.number().min(3).required
-})
+// const schema = Joi.object({
+//     orderId: Joi.string.required,
+//     storeId: Joi.string.required
+// })
 
 // schema options
 const options = {
@@ -43,19 +43,54 @@ const options = {
     stripUnknown: true // remove unknown props
 };
 
+
+router.get('/healthcheck', (req, res) => {
+    logger.info('Application Health check');
+    res.json({ 'message': 'Order API Health ok.' });
+});
+
+
+router.get('/healthcheck/:storeId', async function (req, res) {
+    try {
+        logger.info('Health check by storeId');
+        var storeNumber = req.params.storeId;
+        logger.info("store: %s ", storeNumber);
+
+        if (storeNumber != null)
+            var dbConfig = loadStores.findStoreDetails(storeNumber); // , port, username, password, database 
+
+        const ip = (await dbConfig).ipAddress;
+        const dbPort = (await dbConfig).port;
+        const uname = (await dbConfig).username;
+        const pwd = (await dbConfig).password;
+        const dbName = (await dbConfig).database;
+
+        const storeConn = posDb.connectToStore(ip, dbPort, uname, pwd, dbName);
+        const results = await fetchOrder.testQuery();
+
+        if (results != null) {
+            res.json({ 'message': 'Connection to store established.' });
+        }
+
+    } catch (err) {
+        logger.error(`Error while connecting to store `, err.message);
+    }
+});
+
+
 /**
  * @swagger
- * /api/order/?{orderId}:/store/{storeId}:
+ * /api/v1/order/{orderId}:/store/{storeId}:
  *  get:
  *      summary: The order status by OrderId and StoreId
  *      parameters:
- *        - in: query
+ *        - in: path
  *          name: orderId
  *          schema:
  *              type: string
  *          required: true
  *          description: A unique id
- *        - in: query
+ *        - in: path
  *          name: storeId
  *          schema:
  *              type: string
@@ -75,10 +110,13 @@ const options = {
 
 
 /* GET Order by Order number & StoreId */
-router.get('/', async function (req, res) {
+router.get('/order/:orderId/store/:storeId', async function (req, res) {
     try {
-        const ordNumber = req.query.orderId;
-        const storeNumber = req.query.storeId;
+        logger.info('Inside routes function');
+        var ordNumber = req.params.orderId;
+        var storeNumber = req.params.storeId;
+        logger.info("order: %s ", ordNumber);
+        logger.info("store: %s ", storeNumber);
 
         if (storeNumber != null)
             var dbConfig = loadStores.findStoreDetails(storeNumber); // , port, username, password, database 

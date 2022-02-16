@@ -45,11 +45,7 @@ app.use(
     })
 );
 
-app.use('/api/health', (req, res) => {
-    res.json({ 'message': 'Order API Health ok' });
-})
-
-app.use('/api/order', genericRouter);
+app.use('/api/v1', genericRouter);
 
 /* Error handler middleware */
 app.use((err, req, res) => {

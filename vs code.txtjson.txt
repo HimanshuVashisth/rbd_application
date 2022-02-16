@@ -1,0 +1,17 @@
+vs code 
+my sql
+node js
+terminal or cmd
+postman
+git hub
+source tree
+var http=require ('http');
+var data=[
+    {name="anil", age="20", email="anil@test.com"}
+    {name="seema", age="30, email="seema@test.com"}
+]
+http.createserver(function(req,res)){
+    res.writehead(200'{'content=type':'applicatio\json'})
+    res.write(json.stringify(data));
+    res.end();   
+}).listen(3900)
