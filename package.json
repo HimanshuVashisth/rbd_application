@@ -4,7 +4,7 @@
   "description": "Restaurant Brands Click n Collect",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "test": "cross-env NODE_ENV=test jest --testTimeout=10000"
   },
   "author": "Himanshu Vashisth",
@@ -20,6 +20,7 @@
     "morgan": "^1.10.0",
     "mysql2": "^2.2.5",
     "nanoid": "^3.2.0",
+    "nodemon": "^2.0.15",
     "swagger-jsdoc": "^6.1.0",
     "swagger-ui-express": "^4.3.0",
     "util": "^0.12.4",

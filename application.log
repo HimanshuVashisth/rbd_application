@@ -28,3 +28,90 @@
 2022-02-16T09:34:25.363Z [info] Inside queryOrderByOrdNum
 2022-02-16T09:34:25.367Z [info] created connection
 2022-02-16T09:34:25.380Z [error] Error while connecting to store 
+2022-02-16T10:22:01.721Z [info] NODE_ENV=local
+2022-02-16T10:22:01.753Z [info] Order API listening at http://localhost:3000
+2022-02-16T10:23:07.296Z [info] Inside routes function
+2022-02-16T10:23:07.298Z [info] order: %s 
+2022-02-16T10:23:07.298Z [info] store: %s 
+2022-02-16T10:23:07.394Z [info] Inside queryOrderByOrdNum
+2022-02-16T10:23:07.397Z [info] created connection
+2022-02-16T10:23:07.408Z [error] Error while connecting to store 
+2022-02-18T05:41:39.741Z [info] NODE_ENV=local
+2022-02-18T05:41:39.776Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:45:18.692Z [info] NODE_ENV=local
+2022-02-18T05:45:18.726Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:49:34.459Z [info] NODE_ENV=local
+2022-02-18T05:49:34.492Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:50:03.175Z [info] NODE_ENV=local
+2022-02-18T05:50:03.208Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:52:31.878Z [info] NODE_ENV=local
+2022-02-18T05:52:31.909Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:52:36.672Z [info] NODE_ENV=local
+2022-02-18T05:52:36.704Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:56:45.411Z [info] NODE_ENV=local
+2022-02-18T05:56:45.444Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:56:50.143Z [info] NODE_ENV=local
+2022-02-18T05:56:50.174Z [info] Order API listening at http://localhost:3000
+2022-02-18T05:56:58.655Z [info] NODE_ENV=local
+2022-02-18T05:56:58.688Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:00:59.287Z [info] NODE_ENV=local
+2022-02-18T06:00:59.322Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:01:06.668Z [info] NODE_ENV=local
+2022-02-18T06:01:06.703Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:01:25.841Z [info] NODE_ENV=local
+2022-02-18T06:01:25.876Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:02:20.316Z [info] NODE_ENV=local
+2022-02-18T06:02:20.354Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:03:07.991Z [info] NODE_ENV=local
+2022-02-18T06:03:08.036Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:03:19.635Z [info] NODE_ENV=local
+2022-02-18T06:03:19.679Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:03:45.708Z [info] NODE_ENV=local
+2022-02-18T06:03:45.748Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:04:32.772Z [info] NODE_ENV=local
+2022-02-18T06:04:32.815Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:05:58.917Z [info] NODE_ENV=local
+2022-02-18T06:05:58.954Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:06:52.185Z [info] NODE_ENV=local
+2022-02-18T06:06:52.230Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:08:08.150Z [info] NODE_ENV=local
+2022-02-18T06:08:08.188Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:08:35.760Z [info] NODE_ENV=local
+2022-02-18T06:08:35.805Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:08:46.005Z [info] NODE_ENV=local
+2022-02-18T06:08:46.039Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:10:11.103Z [info] NODE_ENV=local
+2022-02-18T06:10:11.145Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:10:33.013Z [info] NODE_ENV=local
+2022-02-18T06:10:33.054Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:12:36.790Z [info] NODE_ENV=local
+2022-02-18T06:12:36.833Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:12:44.178Z [info] NODE_ENV=local
+2022-02-18T06:12:44.213Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:14:03.271Z [info] NODE_ENV=local
+2022-02-18T06:14:03.310Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:19:27.063Z [info] NODE_ENV=local
+2022-02-18T06:19:27.100Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:20:36.763Z [error] undefined
+2022-02-18T06:25:22.606Z [info] NODE_ENV=local
+2022-02-18T06:25:22.645Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:25:37.151Z [info] NODE_ENV=local
+2022-02-18T06:25:37.197Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:26:39.684Z [info] NODE_ENV=local
+2022-02-18T06:26:39.731Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:28:12.196Z [info] NODE_ENV=local
+2022-02-18T06:28:12.245Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:30:57.496Z [info] NODE_ENV=local
+2022-02-18T06:30:57.535Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:32:31.862Z [info] NODE_ENV=local
+2022-02-18T06:32:31.906Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:32:56.092Z [info] NODE_ENV=local
+2022-02-18T06:32:56.135Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:35:35.739Z [info] NODE_ENV=local
+2022-02-18T06:35:35.795Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:35:49.030Z [info] NODE_ENV=local
+2022-02-18T06:35:49.085Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:38:14.908Z [info] NODE_ENV=local
+2022-02-18T06:38:14.955Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:38:33.431Z [info] NODE_ENV=local
+2022-02-18T06:38:33.476Z [info] Order API listening at http://localhost:3000
