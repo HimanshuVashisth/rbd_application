@@ -9,26 +9,21 @@ const logger = require('./logger/logger');
 /**
  * @swagger
  * components: 
- *  schemas:
- *      status:
- *          type: string
- *          required:
- *              - orderId
- *              - storeId
- *          properties:
- *              orderId:
- *                  type: string
- *                  description: A unique id
- *              storeId:
- *                  type: string
- *                  description: A unique id
- *              status:
- *                  type: string
- *                  description: Order status
- *          example:
- *              orderId: 10386
- *              storeId: 141
- *              status: PENDING or READY
+ *   schemas:
+ *     OrderItem:
+ *       type: object
+ *       required:
+ *         - id
+ *         - releaseDate
+ *       properties:
+ *          id:
+ *            type: string
+ *            description: OrderId from the input
+ *            example: '7017480851'
+ *          dispatchDate:
+ *            type: string 
+ *            format: date-time
+ *            example: '2016-08-29T09:12:33.001Z'
  */
 
 // const schema = Joi.object({
@@ -43,13 +38,54 @@ const options = {
     stripUnknown: true // remove unknown props
 };
 
-
+/**
+ * @swagger
+ * /healthcheck:
+ *  get:
+ *      tags: 
+ *        - monitoring
+ *      summary: healthcheck for monitor
+ *      operationId: healthCheck
+ *      description: |
+ *          Return the connection status to all POS systems
+ *      responses:
+ *          '200':
+ *              description: Connectivity from the API middleware to POS systems is fine
+ *          '503':
+ *              description: Unable to retrieve data from POS
+ */
 router.get('/healthcheck', (req, res) => {
     logger.info('Application Health check');
     res.json({ 'message': 'Order API Health ok.' });
 });
 
-
+/**
+ * @swagger
+ * /healthcheck/{storeId}:
+ *  get:
+ *      tags: 
+ *        - monitoring
+ *      summary: healthcheck for a specific POS system
+ *      operationId: healthCheckPOS
+ *      description: |
+ *          Return the connection status from a specific POS system
+ *      parameters:
+ *        - in: path
+ *          name: storeId
+ *          schema:
+ *              type: string
+ *          required: true
+ *          description: An unique store Id
+ *      responses:
+ *          '200':
+ *              description: Connectivity from the API middleware to POS systems is fine
+ *          '400':
+ *              description: bad input parameter
+ *          '404':
+ *              description: Store Id not found
+ *          '503':
+ *              description: Unable to retrieve data from POS
+ */
 router.get('/healthcheck/:storeId', async function (req, res) {
     try {
         logger.info('Health check by storeId');
@@ -82,14 +118,20 @@ router.get('/healthcheck/:storeId', async function (req, res) {
  * @swagger
  * /api/v1/order/{orderId}:/store/{storeId}:
  *  get:
- *      summary: The order status by OrderId and StoreId
+ *      tags:
+ *          - operations
+ *      summary: searches order from the store POS system
+ *      operationId: searchOrder
+ *      description: |
+ *          By passing in the appropriate options, you can search for
+ *          order in the system
  *      parameters:
  *        - in: path
  *          name: orderId
  *          schema:
  *              type: string
  *          required: true
- *          description: A unique id
+ *          description: search an order id from the system
  *        - in: path
  *          name: storeId
  *          schema:
@@ -97,14 +139,20 @@ router.get('/healthcheck/:storeId', async function (req, res) {
  *          required: true
  *          description: A unique id
  *      responses:
- *          200:
- *              description: The order status by OrderId and StoreId
- *              contents:
- *                  application/json
- *              schema:
- *                  $ref: '#/components/schemas/status'
- *          404:
- *              description: The order could not be found
+ *       '200':
+ *         description: search results matching criteria
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 $ref: '#/components/schemas/OrderItem'
+ *       '400':
+ *         description: bad input parameter
+ *       '404':
+ *         description: Order not found
+ *       '503':
+ *         description: Unable to retrieve data from POS
  * 
  */
 

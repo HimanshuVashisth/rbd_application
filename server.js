@@ -16,13 +16,24 @@ const options = {
     definition: {
         openapi: "3.0.0",
         info: {
-            title: "Order API",
-            version: "1.0.0",
-            description: "Order API using Express & NodeJs",
-            contact: "Himanshu Dev Ninja",
-            url: "http://www.sas-it.com/support",
-            email: "support@sasit.com"
+            description: "Restaurant Brands Click and Collect APIs",
+            version: "1.0.1-oas3",
+            title: "RBD CnC API",
+            contact: {
+                name: "APIs Design",
+                email: "gary.sin@sasit.co.nz"
+            }
         },
+        tags: [
+            {
+                name: "monitoring",
+                description: "Healthcheck"
+            },
+            {
+                name: "operations",
+                description: "Operations available to regular activities"
+            }
+        ],
         servers: [
             {
                 url: `http://${config.HOST}:${config.PORT}`
