@@ -115,3 +115,747 @@
 2022-02-18T06:38:14.955Z [info] Order API listening at http://localhost:3000
 2022-02-18T06:38:33.431Z [info] NODE_ENV=local
 2022-02-18T06:38:33.476Z [info] Order API listening at http://localhost:3000
+2022-02-18T06:55:06.588Z [info] NODE_ENV=local
+2022-02-18T06:55:06.630Z [info] Order API listening at http://localhost:3000
+2022-02-20T09:54:40.139Z [info] NODE_ENV=local
+2022-02-20T09:54:40.190Z [info] Order API listening at http://localhost:3000
+2022-02-20T09:55:03.124Z [info] Inside routes function
+2022-02-20T09:55:13.596Z [info] NODE_ENV=local
+2022-02-20T09:55:13.639Z [info] Order API listening at http://localhost:3000
+2022-02-20T09:55:21.825Z [info] NODE_ENV=local
+2022-02-20T09:55:21.881Z [info] Order API listening at http://localhost:3000
+2022-02-20T09:55:27.806Z [info] NODE_ENV=local
+2022-02-20T09:55:27.860Z [info] Order API listening at http://localhost:3000
+2022-02-20T09:55:29.581Z [info] NODE_ENV=local
+2022-02-20T09:55:29.626Z [info] Order API listening at http://localhost:3000
+2022-02-20T09:55:33.546Z [info] Inside routes function
+2022-02-20T09:55:33.560Z [info] order: %s 
+2022-02-20T09:55:33.560Z [info] store: %s 
+2022-02-20T09:55:33.644Z [info] Inside queryOrderByOrdNum
+2022-02-20T09:55:33.647Z [info] created connection
+2022-02-20T09:55:33.661Z [error] Error while connecting to store 
+2022-02-20T10:02:44.221Z [info] NODE_ENV=local
+2022-02-20T10:02:44.263Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:02:51.556Z [info] Inside routes function
+2022-02-20T10:02:51.568Z [info] order: %s 
+2022-02-20T10:02:51.568Z [info] store: %s 
+2022-02-20T10:02:51.659Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:02:51.662Z [info] created connection
+2022-02-20T10:02:51.673Z [error] Error while connecting to store 
+2022-02-20T10:03:45.290Z [info] Inside routes function
+2022-02-20T10:03:45.296Z [info] order: %s 
+2022-02-20T10:03:45.296Z [info] store: %s 
+2022-02-20T10:03:45.336Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:03:45.338Z [info] created connection
+2022-02-20T10:03:45.342Z [error] Error while connecting to store 
+2022-02-20T10:04:02.311Z [info] Inside routes function
+2022-02-20T10:04:02.316Z [info] order: %s 
+2022-02-20T10:04:02.318Z [info] store: %s 
+2022-02-20T10:04:02.341Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:04:02.343Z [info] created connection
+2022-02-20T10:04:02.347Z [error] Error while connecting to store 
+2022-02-20T10:05:02.718Z [info] NODE_ENV=local
+2022-02-20T10:05:02.760Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:05:10.978Z [info] Inside routes function
+2022-02-20T10:05:10.980Z [info] {}
+2022-02-20T10:05:10.992Z [info] order: %s 
+2022-02-20T10:05:10.994Z [info] store: %s 
+2022-02-20T10:05:11.086Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:05:11.089Z [info] created connection
+2022-02-20T10:05:11.098Z [error] Error while connecting to store 
+2022-02-20T10:06:09.975Z [info] NODE_ENV=local
+2022-02-20T10:06:10.017Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:06:12.638Z [info] Inside routes function
+2022-02-20T10:06:12.640Z [info] Token : %s
+2022-02-20T10:06:12.652Z [info] order: %s 
+2022-02-20T10:06:12.653Z [info] store: %s 
+2022-02-20T10:06:12.739Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:06:12.741Z [info] created connection
+2022-02-20T10:06:12.752Z [error] Error while connecting to store 
+2022-02-20T10:07:54.051Z [info] NODE_ENV=local
+2022-02-20T10:07:54.103Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:07:57.650Z [info] NODE_ENV=local
+2022-02-20T10:07:57.701Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:08:00.470Z [info] Inside routes function
+2022-02-20T10:08:00.484Z [info] order: %s 
+2022-02-20T10:08:00.484Z [info] store: %s 
+2022-02-20T10:08:00.574Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:08:00.575Z [info] created connection
+2022-02-20T10:08:00.585Z [error] Error while connecting to store 
+2022-02-20T10:08:18.582Z [info] NODE_ENV=local
+2022-02-20T10:08:18.633Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:08:24.519Z [info] Inside routes function
+2022-02-20T10:08:24.536Z [info] order: %s 
+2022-02-20T10:08:24.536Z [info] store: %s 
+2022-02-20T10:08:24.636Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:08:24.639Z [info] created connection
+2022-02-20T10:08:24.650Z [error] Error while connecting to store 
+2022-02-20T10:09:12.784Z [info] NODE_ENV=local
+2022-02-20T10:09:12.826Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:09:27.516Z [info] Inside routes function
+2022-02-20T10:09:27.533Z [info] order: %s 
+2022-02-20T10:09:27.533Z [info] store: %s 
+2022-02-20T10:09:27.629Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:09:27.632Z [info] created connection
+2022-02-20T10:09:27.642Z [error] Error while connecting to store 
+2022-02-20T10:18:38.585Z [info] NODE_ENV=local
+2022-02-20T10:18:38.628Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:18:54.422Z [info] NODE_ENV=local
+2022-02-20T10:18:54.467Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:19:00.405Z [info] NODE_ENV=local
+2022-02-20T10:19:00.449Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:19:08.387Z [info] Inside routes function
+2022-02-20T10:19:08.400Z [info] order: %s 
+2022-02-20T10:19:08.400Z [info] store: %s 
+2022-02-20T10:19:08.487Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:19:08.490Z [info] created connection
+2022-02-20T10:19:08.499Z [error] Error while connecting to store 
+2022-02-20T10:21:14.930Z [info] NODE_ENV=local
+2022-02-20T10:21:14.981Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:22:04.473Z [info] NODE_ENV=local
+2022-02-20T10:22:04.524Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:22:08.458Z [info] Inside routes function
+2022-02-20T10:22:08.474Z [info] order: %s 
+2022-02-20T10:22:08.474Z [info] store: %s 
+2022-02-20T10:22:08.561Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:22:08.564Z [info] created connection
+2022-02-20T10:22:08.581Z [error] Error while connecting to store 
+2022-02-20T10:22:24.599Z [info] NODE_ENV=local
+2022-02-20T10:22:24.641Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:22:26.948Z [info] Inside routes function
+2022-02-20T10:22:26.962Z [info] order: %s 
+2022-02-20T10:22:26.962Z [info] store: %s 
+2022-02-20T10:22:27.052Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:22:27.055Z [info] created connection
+2022-02-20T10:22:27.064Z [error] Error while connecting to store 
+2022-02-20T10:22:56.383Z [info] NODE_ENV=local
+2022-02-20T10:22:56.425Z [info] Order API listening at http://localhost:3000
+2022-02-20T10:22:59.463Z [info] Inside routes function
+2022-02-20T10:22:59.478Z [info] order: %s 
+2022-02-20T10:22:59.478Z [info] store: %s 
+2022-02-20T10:22:59.568Z [info] Inside queryOrderByOrdNum
+2022-02-20T10:22:59.571Z [info] created connection
+2022-02-20T10:22:59.580Z [error] Error while connecting to store 
+2022-02-24T09:22:37.326Z [info] NODE_ENV=local
+2022-02-24T09:22:37.379Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:26:20.659Z [info] Application Health check
+2022-02-24T09:27:14.024Z [info] NODE_ENV=local
+2022-02-24T09:27:14.075Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:27:24.427Z [info] Application Health check
+2022-02-24T09:31:36.012Z [info] NODE_ENV=local
+2022-02-24T09:31:36.065Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:32:11.673Z [info] NODE_ENV=local
+2022-02-24T09:32:11.719Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:34:12.192Z [info] Health check by storeId
+2022-02-24T09:34:12.203Z [info] store: %s 
+2022-02-24T09:34:12.310Z [error] Error while connecting to store 
+2022-02-24T09:34:31.690Z [info] NODE_ENV=local
+2022-02-24T09:34:31.734Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:34:35.873Z [info] Health check by storeId
+2022-02-24T09:34:35.875Z [info] store: %s 
+2022-02-24T09:34:35.981Z [error] Error while connecting to store 
+2022-02-24T09:38:12.462Z [info] NODE_ENV=local
+2022-02-24T09:38:12.516Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:38:27.494Z [info] Health check by storeId
+2022-02-24T09:38:27.497Z [info] store: %s 
+2022-02-24T09:38:27.607Z [error] Error while connecting to store 
+2022-02-24T09:38:40.953Z [info] NODE_ENV=local
+2022-02-24T09:38:41.004Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:39:45.427Z [info] NODE_ENV=local
+2022-02-24T09:39:45.472Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:40:46.013Z [info] Health check by storeId
+2022-02-24T09:40:46.016Z [info] store: %s 
+2022-02-24T09:40:46.117Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:40:46.121Z [info] created connection
+2022-02-24T09:40:46.139Z [error] Error while connecting to store 
+2022-02-24T09:45:16.476Z [info] NODE_ENV=local
+2022-02-24T09:45:16.535Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:45:32.586Z [info] Health check by storeId
+2022-02-24T09:45:32.589Z [info] store: %s 
+2022-02-24T09:45:32.689Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:45:32.693Z [info] created connection
+2022-02-24T09:45:32.706Z [error] Error while connecting to store 
+2022-02-24T09:46:19.692Z [info] NODE_ENV=local
+2022-02-24T09:46:19.748Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:46:53.247Z [info] NODE_ENV=local
+2022-02-24T09:46:53.299Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:47:01.352Z [info] Health check by storeId
+2022-02-24T09:47:01.353Z [info] store: %s 
+2022-02-24T09:47:01.459Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:47:01.462Z [info] created connection
+2022-02-24T09:47:01.475Z [error] Error while connecting to store 
+2022-02-24T09:47:39.438Z [info] Health check by storeId
+2022-02-24T09:47:39.441Z [info] store: %s 
+2022-02-24T09:47:39.494Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:47:39.497Z [info] created connection
+2022-02-24T09:47:39.504Z [error] Error while connecting to store 
+2022-02-24T09:48:08.015Z [info] NODE_ENV=local
+2022-02-24T09:48:08.061Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:48:12.467Z [info] Health check by storeId
+2022-02-24T09:48:12.468Z [info] store: %s 
+2022-02-24T09:48:12.573Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:48:12.576Z [info] created connection
+2022-02-24T09:48:12.590Z [error] Error while connecting to store 
+2022-02-24T09:49:11.762Z [info] NODE_ENV=local
+2022-02-24T09:49:11.814Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:49:15.605Z [info] Health check by storeId
+2022-02-24T09:49:15.607Z [info] store: %s 
+2022-02-24T09:49:15.708Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:49:15.710Z [info] created connection
+2022-02-24T09:49:15.723Z [error] Error while connecting to store 
+2022-02-24T09:50:03.971Z [info] Health check by storeId
+2022-02-24T09:50:03.976Z [info] store: %s 
+2022-02-24T09:50:04.028Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:50:04.031Z [info] created connection
+2022-02-24T09:50:04.038Z [error] Error while connecting to store 
+2022-02-24T09:50:27.441Z [info] Health check by storeId
+2022-02-24T09:50:27.442Z [info] store: %s 
+2022-02-24T09:50:27.474Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:50:27.476Z [info] created connection
+2022-02-24T09:50:27.484Z [error] Error while connecting to store 
+2022-02-24T09:50:51.295Z [info] NODE_ENV=local
+2022-02-24T09:50:51.349Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:51:25.391Z [info] NODE_ENV=local
+2022-02-24T09:51:25.444Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:51:39.343Z [info] NODE_ENV=local
+2022-02-24T09:51:39.388Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:51:42.411Z [info] Health check by storeId
+2022-02-24T09:51:42.412Z [info] store: %s 
+2022-02-24T09:51:42.512Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:51:42.515Z [info] created connection
+2022-02-24T09:51:42.526Z [error] Error while connecting to store 
+2022-02-24T09:52:11.071Z [info] NODE_ENV=local
+2022-02-24T09:52:11.123Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:52:14.160Z [info] Health check by storeId
+2022-02-24T09:52:14.162Z [info] store: %s 
+2022-02-24T09:52:14.273Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:52:14.275Z [info] created connection
+2022-02-24T09:52:14.287Z [error] Error while connecting to store 
+2022-02-24T09:53:18.724Z [info] NODE_ENV=local
+2022-02-24T09:53:18.767Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:53:23.755Z [info] Health check by storeId
+2022-02-24T09:53:23.756Z [info] store: %s 
+2022-02-24T09:53:23.865Z [info] Inside queryOrderByOrdNum
+2022-02-24T09:53:23.868Z [info] created connection
+2022-02-24T09:53:23.882Z [error] Error while connecting to store 
+2022-02-24T09:57:35.639Z [info] NODE_ENV=local
+2022-02-24T09:57:35.692Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:57:45.882Z [info] Health check by storeId
+2022-02-24T09:57:45.885Z [info] store: %s 
+2022-02-24T09:58:30.483Z [info] NODE_ENV=local
+2022-02-24T09:58:30.535Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:58:37.064Z [info] NODE_ENV=local
+2022-02-24T09:58:37.110Z [info] Order API listening at http://localhost:3000
+2022-02-24T09:58:40.850Z [info] Health check by storeId
+2022-02-24T09:58:40.851Z [info] store: %s 
+2022-02-24T10:00:17.373Z [info] NODE_ENV=local
+2022-02-24T10:00:17.416Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:01:01.626Z [info] NODE_ENV=local
+2022-02-24T10:01:01.670Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:01:04.882Z [info] Health check by storeId
+2022-02-24T10:01:04.883Z [info] store: %s 
+2022-02-24T10:03:16.212Z [info] NODE_ENV=local
+2022-02-24T10:03:16.256Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:03:20.437Z [info] Health check by storeId
+2022-02-24T10:03:20.439Z [info] store: %s 
+2022-02-24T10:04:06.699Z [info] Health check by storeId
+2022-02-24T10:04:06.704Z [info] store: %s 
+2022-02-24T10:05:34.546Z [info] NODE_ENV=local
+2022-02-24T10:05:34.603Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:05:37.056Z [info] Health check by storeId
+2022-02-24T10:05:37.057Z [info] store: %s 
+2022-02-24T10:10:31.264Z [info] NODE_ENV=local
+2022-02-24T10:10:31.308Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:10:35.514Z [info] Health check by storeId
+2022-02-24T10:10:35.516Z [info] store: %s 
+2022-02-24T10:10:55.965Z [info] Health check by storeId
+2022-02-24T10:10:55.966Z [info] store: %s 
+2022-02-24T10:11:26.400Z [info] NODE_ENV=local
+2022-02-24T10:11:26.452Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:11:32.099Z [info] Health check by storeId
+2022-02-24T10:11:32.100Z [info] store: %s 
+2022-02-24T10:15:07.826Z [info] NODE_ENV=local
+2022-02-24T10:15:07.878Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:15:18.638Z [info] Health check by storeId
+2022-02-24T10:15:18.640Z [info] store: %s 
+2022-02-24T10:15:18.746Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:15:18.753Z [info] created connection
+2022-02-24T10:19:40.054Z [info] NODE_ENV=local
+2022-02-24T10:19:40.110Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:19:44.769Z [info] Health check by storeId
+2022-02-24T10:19:44.770Z [info] store: %s 
+2022-02-24T10:19:44.874Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:19:44.880Z [info] created connection
+2022-02-24T10:20:30.793Z [info] NODE_ENV=local
+2022-02-24T10:20:30.838Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:20:40.089Z [info] Health check by storeId
+2022-02-24T10:20:40.091Z [info] store: %s 
+2022-02-24T10:20:40.197Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:20:40.204Z [info] created connection
+2022-02-24T10:24:19.222Z [info] NODE_ENV=local
+2022-02-24T10:24:19.274Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:24:23.858Z [info] Health check by storeId
+2022-02-24T10:24:23.860Z [info] store: %s 
+2022-02-24T10:24:23.972Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:24:23.978Z [info] created connection
+2022-02-24T10:27:39.842Z [info] NODE_ENV=local
+2022-02-24T10:27:39.888Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:28:04.039Z [info] NODE_ENV=local
+2022-02-24T10:28:04.094Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:28:11.816Z [info] Health check by storeId
+2022-02-24T10:28:11.817Z [info] store: %s 
+2022-02-24T10:28:11.928Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:28:11.934Z [info] created connection
+2022-02-24T10:29:01.292Z [info] NODE_ENV=local
+2022-02-24T10:29:01.344Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:29:04.665Z [info] Health check by storeId
+2022-02-24T10:29:04.667Z [info] store: %s 
+2022-02-24T10:29:04.780Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:29:04.786Z [info] created connection
+2022-02-24T10:32:59.001Z [info] NODE_ENV=local
+2022-02-24T10:32:59.045Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:33:06.422Z [info] Health check by storeId
+2022-02-24T10:33:16.474Z [info] NODE_ENV=local
+2022-02-24T10:33:16.518Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:33:24.288Z [info] Health check by storeId
+2022-02-24T10:33:52.725Z [info] NODE_ENV=local
+2022-02-24T10:33:52.768Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:34:06.869Z [info] NODE_ENV=local
+2022-02-24T10:34:06.923Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:34:09.737Z [info] Health check by storeId
+2022-02-24T10:34:09.739Z [info] store: %s 
+2022-02-24T10:34:09.849Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:34:09.855Z [info] created connection
+2022-02-24T10:35:32.796Z [info] NODE_ENV=local
+2022-02-24T10:35:32.841Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:35:45.042Z [info] NODE_ENV=local
+2022-02-24T10:35:45.096Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:35:50.102Z [info] Health check by storeId
+2022-02-24T10:35:50.103Z [info] store: %s 
+2022-02-24T10:35:50.219Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:35:50.224Z [info] created connection
+2022-02-24T10:35:50.238Z [error] Error while connecting to store 
+2022-02-24T10:37:13.240Z [info] NODE_ENV=local
+2022-02-24T10:37:13.292Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:37:17.169Z [info] Health check by storeId
+2022-02-24T10:37:17.171Z [info] store: %s 
+2022-02-24T10:37:17.279Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:37:17.284Z [info] created connection
+2022-02-24T10:37:17.298Z [error] Error while connecting to store 
+2022-02-24T10:39:19.125Z [info] NODE_ENV=local
+2022-02-24T10:39:19.176Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:42:50.035Z [info] NODE_ENV=local
+2022-02-24T10:42:50.080Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:44:28.613Z [info] NODE_ENV=local
+2022-02-24T10:44:28.666Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:44:31.832Z [info] Health check by storeId
+2022-02-24T10:44:31.833Z [info] store: %s 
+2022-02-24T10:44:31.927Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:44:31.930Z [info] created connection
+2022-02-24T10:44:31.942Z [error] Error while connecting to store 
+2022-02-24T10:44:59.706Z [info] NODE_ENV=local
+2022-02-24T10:44:59.766Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:51:58.140Z [info] NODE_ENV=local
+2022-02-24T10:51:58.192Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:52:03.376Z [info] Health check by storeId
+2022-02-24T10:52:03.377Z [info] store: %s 
+2022-02-24T10:52:03.486Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:52:03.488Z [info] created connection
+2022-02-24T10:52:03.501Z [error] Error while connecting to store 
+2022-02-24T10:53:12.809Z [info] NODE_ENV=local
+2022-02-24T10:53:12.862Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:53:25.473Z [info] Health check by storeId
+2022-02-24T10:53:25.475Z [info] store: %s 
+2022-02-24T10:53:25.574Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:53:25.578Z [info] created connection
+2022-02-24T10:53:25.590Z [error] Error while connecting to store 
+2022-02-24T10:54:08.640Z [info] NODE_ENV=local
+2022-02-24T10:54:08.692Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:54:09.305Z [info] NODE_ENV=local
+2022-02-24T10:54:09.357Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:54:14.305Z [info] Health check by storeId
+2022-02-24T10:54:14.306Z [info] store: %s 
+2022-02-24T10:54:14.413Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:54:14.417Z [info] created connection
+2022-02-24T10:54:14.429Z [error] Error while connecting to store 
+2022-02-24T10:54:28.645Z [info] NODE_ENV=local
+2022-02-24T10:54:28.698Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:55:19.215Z [info] NODE_ENV=local
+2022-02-24T10:55:19.262Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:55:47.055Z [info] NODE_ENV=local
+2022-02-24T10:55:47.099Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:55:49.774Z [info] NODE_ENV=local
+2022-02-24T10:55:49.816Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:55:56.732Z [info] NODE_ENV=local
+2022-02-24T10:55:56.776Z [info] Order API listening at http://localhost:3000
+2022-02-24T10:56:02.140Z [info] Health check by storeId
+2022-02-24T10:56:02.141Z [info] store: %s 
+2022-02-24T10:56:02.243Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:02.246Z [info] created connection
+2022-02-24T10:56:02.259Z [error] Error while connecting to store 
+2022-02-24T10:56:15.071Z [info] Health check by storeId
+2022-02-24T10:56:15.073Z [info] store: %s 
+2022-02-24T10:56:15.131Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:15.134Z [info] created connection
+2022-02-24T10:56:15.142Z [error] Error while connecting to store 
+2022-02-24T10:56:21.476Z [info] Health check by storeId
+2022-02-24T10:56:21.477Z [info] store: %s 
+2022-02-24T10:56:21.512Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:21.515Z [info] created connection
+2022-02-24T10:56:21.525Z [error] Error while connecting to store 
+2022-02-24T10:56:22.232Z [info] Health check by storeId
+2022-02-24T10:56:22.234Z [info] store: %s 
+2022-02-24T10:56:22.259Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:22.261Z [info] created connection
+2022-02-24T10:56:22.269Z [error] Error while connecting to store 
+2022-02-24T10:56:22.850Z [info] Health check by storeId
+2022-02-24T10:56:22.852Z [info] store: %s 
+2022-02-24T10:56:22.878Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:22.879Z [info] created connection
+2022-02-24T10:56:22.885Z [error] Error while connecting to store 
+2022-02-24T10:56:23.340Z [info] Health check by storeId
+2022-02-24T10:56:23.343Z [info] store: %s 
+2022-02-24T10:56:23.369Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:23.371Z [info] created connection
+2022-02-24T10:56:23.377Z [error] Error while connecting to store 
+2022-02-24T10:56:23.884Z [info] Health check by storeId
+2022-02-24T10:56:23.888Z [info] store: %s 
+2022-02-24T10:56:23.910Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:23.911Z [info] created connection
+2022-02-24T10:56:23.918Z [error] Error while connecting to store 
+2022-02-24T10:56:24.387Z [info] Health check by storeId
+2022-02-24T10:56:24.392Z [info] store: %s 
+2022-02-24T10:56:24.412Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:24.415Z [info] created connection
+2022-02-24T10:56:24.426Z [error] Error while connecting to store 
+2022-02-24T10:56:24.899Z [info] Health check by storeId
+2022-02-24T10:56:24.901Z [info] store: %s 
+2022-02-24T10:56:24.929Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:24.933Z [info] created connection
+2022-02-24T10:56:24.948Z [error] Error while connecting to store 
+2022-02-24T10:56:25.408Z [info] Health check by storeId
+2022-02-24T10:56:25.411Z [info] store: %s 
+2022-02-24T10:56:25.439Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:25.442Z [info] created connection
+2022-02-24T10:56:25.453Z [error] Error while connecting to store 
+2022-02-24T10:56:26.311Z [info] Health check by storeId
+2022-02-24T10:56:26.311Z [info] store: %s 
+2022-02-24T10:56:26.337Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:56:26.337Z [info] created connection
+2022-02-24T10:56:26.343Z [error] Error while connecting to store 
+2022-02-24T10:57:25.509Z [info] Health check by storeId
+2022-02-24T10:57:25.510Z [info] store: %s 
+2022-02-24T10:57:25.532Z [info] Inside queryOrderByOrdNum
+2022-02-24T10:57:25.533Z [info] created connection
+2022-02-24T10:57:25.540Z [error] Error while connecting to store 
+2022-02-24T11:00:39.143Z [info] NODE_ENV=local
+2022-02-24T11:00:39.188Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:00:45.245Z [info] Health check by storeId
+2022-02-24T11:00:45.247Z [info] store: %s 
+2022-02-24T11:01:19.568Z [info] Health check by storeId
+2022-02-24T11:01:19.571Z [info] store: %s 
+2022-02-24T11:01:19.641Z [info] Inside queryOrderByOrdNum
+2022-02-24T11:01:19.645Z [info] created connection
+2022-02-24T11:01:19.657Z [error] Error while connecting to store 
+2022-02-24T11:01:55.638Z [info] Health check by storeId
+2022-02-24T11:01:55.640Z [info] store: %s 
+2022-02-24T11:02:26.798Z [info] Health check by storeId
+2022-02-24T11:02:26.799Z [info] store: %s 
+2022-02-24T11:02:26.822Z [info] Inside queryOrderByOrdNum
+2022-02-24T11:02:26.823Z [info] created connection
+2022-02-24T11:02:26.835Z [error] Error while connecting to store 
+2022-02-24T11:09:55.431Z [info] NODE_ENV=local
+2022-02-24T11:09:55.485Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:17:08.362Z [info] NODE_ENV=local
+2022-02-24T11:17:08.406Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:18:17.814Z [info] NODE_ENV=local
+2022-02-24T11:18:17.867Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:18:38.011Z [info] Health check by storeId
+2022-02-24T11:18:38.013Z [info] reqParam: {} 
+2022-02-24T11:25:04.727Z [info] NODE_ENV=local
+2022-02-24T11:25:04.779Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:25:32.550Z [info] NODE_ENV=local
+2022-02-24T11:25:32.602Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:25:46.650Z [info] NODE_ENV=local
+2022-02-24T11:25:46.696Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:25:50.725Z [info] Health check by storeId
+2022-02-24T11:25:50.726Z [info] reqParam: {} 
+2022-02-24T11:28:34.781Z [info] NODE_ENV=local
+2022-02-24T11:28:34.827Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:28:40.678Z [info] Health check by storeId
+2022-02-24T11:28:40.680Z [info] reqParam: {} 
+2022-02-24T11:29:00.059Z [info] Health check by storeId
+2022-02-24T11:29:00.063Z [info] reqParam: {} 
+2022-02-24T11:32:24.708Z [info] NODE_ENV=local
+2022-02-24T11:32:24.762Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:32:27.427Z [info] Health check by storeId
+2022-02-24T11:32:27.429Z [info] reqParam: {} 
+2022-02-24T11:33:14.910Z [info] NODE_ENV=local
+2022-02-24T11:33:14.963Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:33:47.800Z [info] NODE_ENV=local
+2022-02-24T11:33:47.854Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:33:51.522Z [info] Health check by storeId
+2022-02-24T11:33:51.524Z [info] reqParam: {} 
+2022-02-24T11:34:33.482Z [info] Health check by storeId
+2022-02-24T11:34:33.487Z [info] reqParam: {} 
+2022-02-24T11:34:50.991Z [info] Health check by storeId
+2022-02-24T11:34:50.995Z [info] reqParam: {} 
+2022-02-24T11:36:09.996Z [info] Health check by storeId
+2022-02-24T11:36:09.999Z [info] reqParam: {} 
+2022-02-24T11:36:18.326Z [info] Health check by storeId
+2022-02-24T11:36:18.330Z [info] reqParam: {} 
+2022-02-24T11:37:24.005Z [info] NODE_ENV=local
+2022-02-24T11:37:24.054Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:37:27.153Z [info] Health check by storeId
+2022-02-24T11:37:27.155Z [info] reqParam: {} 
+2022-02-24T11:37:32.884Z [info] Health check by storeId
+2022-02-24T11:37:32.887Z [info] reqParam: {} 
+2022-02-24T11:37:44.132Z [info] NODE_ENV=local
+2022-02-24T11:37:44.184Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:38:07.610Z [info] NODE_ENV=local
+2022-02-24T11:38:07.654Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:38:11.581Z [info] Health check by storeId
+2022-02-24T11:38:11.582Z [info] reqParam: {} 
+2022-02-24T11:41:44.935Z [info] NODE_ENV=local
+2022-02-24T11:41:44.988Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:47:17.804Z [info] NODE_ENV=local
+2022-02-24T11:47:17.860Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:47:21.205Z [info] Health check by storeId
+2022-02-24T11:48:49.195Z [info] NODE_ENV=local
+2022-02-24T11:48:49.252Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:49:04.866Z [info] NODE_ENV=local
+2022-02-24T11:49:04.909Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:49:42.396Z [info] NODE_ENV=local
+2022-02-24T11:49:42.439Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:49:48.470Z [info] Health check by storeId
+2022-02-24T11:49:48.580Z [info] Inside queryOrderByOrdNum
+2022-02-24T11:49:48.583Z [info] created connection
+2022-02-24T11:49:48.599Z [error] Error while connecting to store 
+2022-02-24T11:50:12.683Z [info] Health check by storeId
+2022-02-24T11:51:19.948Z [info] Health check by storeId
+2022-02-24T11:53:28.552Z [info] NODE_ENV=local
+2022-02-24T11:53:28.613Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:53:34.111Z [info] Health check by storeId
+2022-02-24T11:53:34.112Z [info] Cannot parse storeId provided
+2022-02-24T11:54:17.093Z [info] NODE_ENV=local
+2022-02-24T11:54:17.146Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:54:20.990Z [info] Health check by storeId
+2022-02-24T11:54:20.991Z [error] Cannot parse storeId provided
+2022-02-24T11:55:04.901Z [info] NODE_ENV=local
+2022-02-24T11:55:04.946Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:55:13.202Z [info] Health check by storeId
+2022-02-24T11:55:13.204Z [error] Cannot parse storeId provided
+2022-02-24T11:56:12.486Z [info] NODE_ENV=local
+2022-02-24T11:56:12.540Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:56:17.912Z [info] NODE_ENV=local
+2022-02-24T11:56:17.965Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:56:45.059Z [info] Health check by storeId
+2022-02-24T11:56:45.062Z [error] Cannot parse storeId provided
+2022-02-24T11:57:37.137Z [info] NODE_ENV=local
+2022-02-24T11:57:37.181Z [info] Order API listening at http://localhost:3000
+2022-02-24T11:57:43.020Z [info] Health check by storeId
+2022-02-24T11:57:43.022Z [error] Cannot parse storeId provided
+2022-02-24T11:57:59.630Z [info] Health check by storeId
+2022-02-24T12:00:13.215Z [info] Health check by storeId
+2022-02-24T12:00:13.218Z [error] Cannot parse storeId provided
+2022-02-24T12:00:22.191Z [info] Health check by storeId
+2022-02-24T12:00:31.635Z [info] Health check by storeId
+2022-02-24T12:00:31.636Z [error] Cannot parse storeId provided
+2022-02-24T12:02:05.623Z [info] Application Health check
+2022-02-24T12:02:51.078Z [info] Application Health check
+2022-02-24T12:02:53.353Z [info] Application Health check
+2022-02-24T12:06:25.422Z [info] Health check by storeId
+2022-02-24T12:06:39.651Z [info] Health check by storeId
+2022-02-24T12:06:39.654Z [error] Cannot parse storeId provided
+2022-02-24T12:10:37.576Z [info] NODE_ENV=local
+2022-02-24T12:10:37.629Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:10:43.051Z [error] undefined
+2022-02-24T12:11:11.779Z [info] Health check by storeId
+2022-02-24T12:11:31.987Z [error] undefined
+2022-02-24T12:11:44.335Z [error] undefined
+2022-02-24T12:22:10.012Z [info] NODE_ENV=local
+2022-02-24T12:22:10.058Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:22:15.928Z [info] Health check by storeId
+2022-02-24T12:22:15.929Z [error] Cannot parse storeId provided
+2022-02-24T12:23:23.988Z [info] NODE_ENV=local
+2022-02-24T12:23:24.040Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:23:28.223Z [info] Health check by storeId
+2022-02-24T12:23:28.224Z [error] Cannot parse storeId provided
+2022-02-24T12:24:01.717Z [info] NODE_ENV=local
+2022-02-24T12:24:01.776Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:24:05.021Z [info] Health check by storeId
+2022-02-24T12:24:05.022Z [error] Cannot parse storeId provided
+2022-02-24T12:24:59.284Z [info] Health check by storeId
+2022-02-24T12:25:09.901Z [info] Health check by storeId
+2022-02-24T12:25:43.343Z [info] NODE_ENV=local
+2022-02-24T12:25:43.416Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:26:08.298Z [info] NODE_ENV=local
+2022-02-24T12:26:08.357Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:26:22.818Z [info] Health check by storeId
+2022-02-24T12:27:28.507Z [info] NODE_ENV=local
+2022-02-24T12:27:28.576Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:27:31.646Z [info] Health check by storeId
+2022-02-24T12:29:09.140Z [info] NODE_ENV=local
+2022-02-24T12:29:09.193Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:29:31.904Z [info] NODE_ENV=local
+2022-02-24T12:29:31.964Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:29:40.189Z [info] NODE_ENV=local
+2022-02-24T12:29:40.240Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:29:45.787Z [info] Health check by storeId
+2022-02-24T12:29:56.667Z [info] Health check by storeId
+2022-02-24T12:29:56.668Z [error] Cannot parse storeId provided
+2022-02-24T12:30:06.159Z [info] Health check by storeId
+2022-02-24T12:30:53.009Z [info] Health check by storeId
+2022-02-24T12:31:07.213Z [info] Health check by storeId
+2022-02-24T12:33:10.101Z [info] Health check by storeId
+2022-02-24T12:33:14.294Z [info] Health check by storeId
+2022-02-24T12:33:38.839Z [info] NODE_ENV=local
+2022-02-24T12:33:38.908Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:34:55.710Z [info] NODE_ENV=local
+2022-02-24T12:34:55.771Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:34:59.016Z [info] Health check by storeId
+2022-02-24T12:34:59.110Z [info] Inside queryOrderByOrdNum
+2022-02-24T12:34:59.113Z [info] created connection
+2022-02-24T12:34:59.132Z [error] Error while connecting to store 
+2022-02-24T12:35:13.254Z [info] Health check by storeId
+2022-02-24T12:35:23.826Z [info] Health check by storeId
+2022-02-24T12:35:32.336Z [info] Health check by storeId
+2022-02-24T12:38:06.594Z [info] NODE_ENV=local
+2022-02-24T12:38:06.659Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:38:10.428Z [info] Health check by storeId
+2022-02-24T12:38:22.860Z [info] Health check by storeId
+2022-02-24T12:38:28.272Z [info] Health check by storeId
+2022-02-24T12:39:41.870Z [info] NODE_ENV=local
+2022-02-24T12:39:41.928Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:39:45.979Z [info] Health check by storeId
+2022-02-24T12:39:50.761Z [info] Health check by storeId
+2022-02-24T12:39:54.183Z [info] Health check by storeId
+2022-02-24T12:39:58.578Z [info] Health check by storeId
+2022-02-24T12:44:28.403Z [info] NODE_ENV=local
+2022-02-24T12:44:28.474Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:44:32.691Z [info] Health check by storeId
+2022-02-24T12:44:32.694Z [error] Cannot parse storeId provided
+2022-02-24T12:45:49.369Z [info] NODE_ENV=local
+2022-02-24T12:45:49.432Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:50:00.305Z [info] NODE_ENV=local
+2022-02-24T12:50:00.362Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:50:10.591Z [info] Health check by storeId
+2022-02-24T12:50:10.594Z [error] Cannot parse storeId provided
+2022-02-24T12:50:24.981Z [info] NODE_ENV=local
+2022-02-24T12:50:25.039Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:50:28.316Z [info] Health check by storeId
+2022-02-24T12:50:28.317Z [error] Cannot parse storeId provided
+2022-02-24T12:51:17.847Z [info] NODE_ENV=local
+2022-02-24T12:51:17.906Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:51:26.359Z [info] Health check by storeId
+2022-02-24T12:51:41.451Z [info] Health check by storeId
+2022-02-24T12:51:55.503Z [info] NODE_ENV=local
+2022-02-24T12:51:55.565Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:51:58.387Z [info] Health check by storeId
+2022-02-24T12:51:58.390Z [error] Cannot parse storeId provided
+2022-02-24T12:52:04.655Z [info] Health check by storeId
+2022-02-24T12:52:04.658Z [error] Cannot parse storeId provided
+2022-02-24T12:53:51.757Z [info] NODE_ENV=local
+2022-02-24T12:53:51.815Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:53:58.518Z [info] NODE_ENV=local
+2022-02-24T12:53:58.589Z [info] Order API listening at http://localhost:3000
+2022-02-24T12:54:03.395Z [info] Health check by storeId
+2022-02-24T12:54:08.966Z [info] Health check by storeId
+2022-02-24T12:54:11.238Z [info] Health check by storeId
+2022-02-24T13:03:36.236Z [info] NODE_ENV=local
+2022-02-24T13:03:36.290Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:04:26.894Z [info] NODE_ENV=local
+2022-02-24T13:04:26.958Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:04:31.113Z [info] Health check by storeId
+2022-02-24T13:04:36.012Z [info] Health check by storeId
+2022-02-24T13:04:49.944Z [info] NODE_ENV=local
+2022-02-24T13:04:50.003Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:04:54.069Z [info] Health check by storeId
+2022-02-24T13:05:03.449Z [info] Health check by storeId
+2022-02-24T13:05:05.411Z [info] Health check by storeId
+2022-02-24T13:06:10.834Z [info] NODE_ENV=local
+2022-02-24T13:06:10.886Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:06:20.544Z [info] Health check by storeId
+2022-02-24T13:06:25.527Z [info] Health check by storeId
+2022-02-24T13:06:30.234Z [info] Health check by storeId
+2022-02-24T13:06:30.822Z [info] Health check by storeId
+2022-02-24T13:06:31.285Z [info] Health check by storeId
+2022-02-24T13:06:31.672Z [info] Health check by storeId
+2022-02-24T13:06:33.003Z [info] Health check by storeId
+2022-02-24T13:06:38.226Z [info] Health check by storeId
+2022-02-24T13:06:42.109Z [info] Health check by storeId
+2022-02-24T13:06:43.103Z [info] Health check by storeId
+2022-02-24T13:06:47.189Z [info] Health check by storeId
+2022-02-24T13:07:32.506Z [info] NODE_ENV=local
+2022-02-24T13:07:32.564Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:07:35.556Z [info] Health check by storeId
+2022-02-24T13:07:55.760Z [info] NODE_ENV=local
+2022-02-24T13:07:55.820Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:08:06.993Z [info] Health check by storeId
+2022-02-24T13:08:08.416Z [info] Health check by storeId
+2022-02-24T13:08:09.175Z [info] Health check by storeId
+2022-02-24T13:08:15.317Z [info] Health check by storeId
+2022-02-24T13:08:16.480Z [info] Health check by storeId
+2022-02-24T13:08:20.700Z [info] Health check by storeId
+2022-02-24T13:09:00.273Z [info] NODE_ENV=local
+2022-02-24T13:09:00.331Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:09:08.783Z [info] Health check by storeId
+2022-02-24T13:09:27.392Z [info] NODE_ENV=local
+2022-02-24T13:09:27.460Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:09:30.596Z [info] Health check by storeId
+2022-02-24T13:09:50.747Z [info] Health check by storeId
+2022-02-24T13:11:10.311Z [info] NODE_ENV=local
+2022-02-24T13:11:10.374Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:11:17.040Z [info] NODE_ENV=local
+2022-02-24T13:11:17.103Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:11:21.580Z [info] Health check by storeId
+2022-02-24T13:11:28.439Z [info] NODE_ENV=local
+2022-02-24T13:11:28.507Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:11:30.651Z [info] Health check by storeId
+2022-02-24T13:12:04.828Z [info] NODE_ENV=local
+2022-02-24T13:12:04.890Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:12:08.362Z [info] Health check by storeId
+2022-02-24T13:12:08.364Z [error] Cannot parse storeId provided
+2022-02-24T13:12:44.888Z [info] Health check by storeId
+2022-02-24T13:12:44.890Z [error] Cannot parse storeId provided
+2022-02-24T13:13:21.832Z [info] NODE_ENV=local
+2022-02-24T13:13:21.883Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:13:39.974Z [info] NODE_ENV=local
+2022-02-24T13:13:40.033Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:13:41.961Z [info] Health check by storeId
+2022-02-24T13:13:41.964Z [error] Cannot parse storeId provided
+2022-02-24T13:14:31.638Z [info] NODE_ENV=local
+2022-02-24T13:14:31.697Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:14:35.657Z [info] Health check by storeId
+2022-02-24T13:14:52.500Z [info] Health check by storeId
+2022-02-24T13:15:37.026Z [info] NODE_ENV=local
+2022-02-24T13:15:37.091Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:15:40.468Z [info] Health check by storeId
+2022-02-24T13:15:46.049Z [info] NODE_ENV=local
+2022-02-24T13:15:46.100Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:15:48.509Z [info] Health check by storeId
+2022-02-24T13:16:56.830Z [info] NODE_ENV=local
+2022-02-24T13:16:56.886Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:17:39.120Z [info] NODE_ENV=local
+2022-02-24T13:17:39.183Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:17:47.993Z [info] NODE_ENV=local
+2022-02-24T13:17:48.050Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:17:51.065Z [info] Health check by storeId
+2022-02-24T13:18:10.477Z [info] Health check by storeId
+2022-02-24T13:18:17.774Z [info] Health check by storeId
+2022-02-24T13:18:24.420Z [info] Health check by storeId
+2022-02-24T13:18:30.236Z [info] Health check by storeId
+2022-02-24T13:19:08.291Z [info] NODE_ENV=local
+2022-02-24T13:19:08.347Z [info] Order API listening at http://localhost:3000
+2022-02-24T13:19:42.251Z [info] Health check by storeId
+2022-02-24T13:19:46.714Z [info] Health check by storeId
+2022-02-24T13:20:35.018Z [info] Health check by storeId
+2022-02-24T13:20:41.194Z [info] Health check by storeId
+2022-02-24T13:20:49.022Z [info] Application Health check
+2022-02-24T13:21:04.016Z [info] Health check by storeId
+2022-02-24T13:21:07.654Z [info] Health check by storeId
+2022-02-24T13:21:19.483Z [info] Health check by storeId
+2022-02-24T13:21:19.501Z [info] Inside queryOrderByOrdNum
+2022-02-24T13:21:19.504Z [info] created connection
+2022-02-24T13:21:19.523Z [error] Error while connecting to store 
+2022-02-24T13:21:35.010Z [info] Application Health check

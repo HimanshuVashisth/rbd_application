@@ -3,14 +3,19 @@ const config = require('../config');
 const logger = require('../logger/logger');
 
 async function queryOrderByOrdNum(sql, params) {
-    logger.info('Inside queryOrderByOrdNum');
-    const connection = await mysql.createPool((await config.getConfig()).db);
-    logger.info('created connection');
-    const [results] = await connection.execute(sql, params);
-    logger.info('executed results');
+    try {
+        logger.info('Inside queryOrderByOrdNum');
+        const connection = await mysql.createPool((await config.getConfig()).db);
+        logger.info('created connection');
 
-    logger.info('Data retreived');
-    return results.length;
+        const [results] = await connection.execute(sql, params);
+
+        logger.info('Data retreived after execution');
+        return results.length;
+    } catch (err) {
+        logger.error(`Error while connecting to store `, err.message);
+    }
+
 }
 
 module.exports = {

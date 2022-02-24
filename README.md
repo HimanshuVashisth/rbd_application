@@ -20,14 +20,12 @@ gitlab.com
 * Database data formats: SQL
 
 # URI
-* Endpoint: `http://localhost:3000/api/v1/order`
+* Endpoint: `http://localhost:3000/api/v1/healthcheck`, `http://localhost:3000/api/v1/healthcheck/{storeId}`, `http://localhost:3000/api/v1/order`
 * Methods: GET
 * Search criteria: By orderId and storeId 
-* Request: Path parameters, Query parameters, Request body (Confirm with Sukriti - Cognizant)
-* Response: Response body in JSON (status: READY/PENDING = null)
-* HTTP status codes: 200
-* Pagination: Out of scope
-* Sorting: Out of scope
+* Request: Path parameters
+* Response: Response body in JSON (OrderItem schema: status: READY with timestamp or null)
+* HTTP status codes: 200, 404 & 501
 
 # Security & Authentication options
 * No Application security

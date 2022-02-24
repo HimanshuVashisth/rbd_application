@@ -5,10 +5,7 @@ async function getTestOrder() {
         'SELECT * FROM ORDERS where ROWNUM = 1'
     );
 
-    return {
-        ordSummary
-    }
-
+    return (ordSummary != null) ? ordSummary : null;
 }
 
 async function getOrderByNum(ordNumber) {

@@ -5,6 +5,7 @@ const loadStores = require('./data/stores');
 const posDb = require('./services/posDbConnector');
 const fetchOrder = require('./services/fetchOrder');
 const logger = require('./logger/logger');
+const config = require('./config');
 
 /**
  * @swagger
@@ -56,7 +57,7 @@ const options = {
  */
 router.get('/healthcheck', (req, res) => {
     logger.info('Application Health check');
-    res.json({ 'message': 'Order API Health ok.' });
+    res.json({ 'message': 'Connectivity from the API middleware to POS systems is fine' });
 });
 
 /**
@@ -87,30 +88,61 @@ router.get('/healthcheck', (req, res) => {
  *              description: Unable to retrieve data from POS
  */
 router.get('/healthcheck/:storeId', async function (req, res) {
+    logger.info('Health check by storeId');
+
+    var dbConfig = null;
+    var storeNumber = req.params.storeId;
     try {
-        logger.info('Health check by storeId');
-        var storeNumber = req.params.storeId;
-        logger.info("store: %s ", storeNumber);
+        var reqParam = typeof JSON.parse(storeNumber) === 'string';
+        console.log("reqParam: ", reqParam);
 
-        if (storeNumber != null)
-            var dbConfig = loadStores.findStoreDetails(storeNumber); // , port, username, password, database 
-
-        const ip = (await dbConfig).ipAddress;
-        const dbPort = (await dbConfig).port;
-        const uname = (await dbConfig).username;
-        const pwd = (await dbConfig).password;
-        const dbName = (await dbConfig).database;
-
-        const storeConn = posDb.connectToStore(ip, dbPort, uname, pwd, dbName);
-        const results = await fetchOrder.testQuery();
-
-        if (results != null) {
-            res.json({ 'message': 'Connection to store established.' });
+        if (reqParam) {
+            return res.status('400').json({
+                'message': `Validation error - storeId is of type string but should be number`
+            });
+        } else {
+            if (!runValidators(storeNumber)) {
+                return res.status('400').json({
+                    'message': `Validation error - storeId should be 4 digits`
+                });
+            }
         }
-
     } catch (err) {
-        logger.error(`Error while connecting to store `, err.message);
+        logger.error(`Cannot parse storeId provided`);
+        return res.status('400').json({
+            'message': `Validation error - Store Id not found`
+        });
     }
+
+
+    if (storeNumber != null)
+        dbConfig = loadStores.findStoreDetails(storeNumber); // , port, username, password, database 
+
+    console.log('config values : ', dbConfig);
+
+    if (dbConfig.then(x => {
+
+        if (x === "Not found") {
+            res.status('404').json({ 'message': 'Store Id not found' });
+        } else {
+            const ip = x.ipAddress;
+            const dbPort = x.port;
+            const uname = x.username;
+            const pwd = x.password;
+            const dbName = x.database;
+
+            const storeConn = posDb.connectToStore(ip, dbPort, uname, pwd, dbName);
+            const results = fetchOrder.testQuery();
+            results.then(ordSummary => {
+                // console.log('ordSummary : {}', ordSummary);
+                if (ordSummary == null) {
+                    res.status('503').json({ 'message': 'Unable to retrieve data from POS' });
+                } else {
+                    res.status('200').json({ 'message': 'Connectivity from the API middleware to POS systems is fine' });
+                }
+            });
+        }
+    }));
 });
 
 
@@ -161,6 +193,7 @@ router.get('/healthcheck/:storeId', async function (req, res) {
 router.get('/order/:orderId/store/:storeId', async function (req, res) {
     try {
         logger.info('Inside routes function');
+
         var ordNumber = req.params.orderId;
         var storeNumber = req.params.storeId;
         logger.info("order: %s ", ordNumber);
@@ -195,3 +228,9 @@ router.get('/order/:orderId/store/:storeId', async function (req, res) {
 });
 
 module.exports = router;
+
+
+const runValidators = function (paramObj) {
+    var reg = new RegExp('^[0-9]{4}$');
+    return reg.test(paramObj);
+};
