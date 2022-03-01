@@ -93,12 +93,12 @@ router.get('/healthcheck/:storeId', async function (req, res) {
     var dbConfig = null;
     var storeNumber = req.params.storeId;
     try {
-        var reqParam = typeof JSON.parse(storeNumber) === 'string';
+        var reqParam = typeof storeNumber === 'string';
         console.log("reqParam: ", reqParam);
 
-        if (reqParam) {
+        if (!reqParam) {
             return res.status('400').json({
-                'message': `Validation error - storeId is of type string but should be number`
+                'message': `Validation error - storeId should be string`
             });
         } else {
             if (!runValidators(storeNumber)) {
@@ -212,16 +212,6 @@ router.get('/order/:orderId/store/:storeId', async function (req, res) {
         const results = await fetchOrder.fetchOrderByNumber(ordNumber);
         logger.info('Get order by num');
 
-        // validate.input(ordNumber, storeNumber);
-        // validate request body against schema
-        // const { error, value } = schema.validate(req.query, options);
-        // if (error) {
-        //     // on fail return comma separated errors
-        //     next(`Validation error: ${error.details.map(x => x.message).join(', ')}`);
-        // } else {
-        //     console.log(value);
-        // on success invoke function to get Order details
-
     } catch (err) {
         logger.error(`Error while connecting to store `, err.message);
     }
@@ -231,6 +221,6 @@ module.exports = router;
 
 
 const runValidators = function (paramObj) {
-    var reg = new RegExp('^[0-9]{4}$');
+    var reg = new RegExp('^[a-zA-Z0-9]+$');
     return reg.test(paramObj);
 };
