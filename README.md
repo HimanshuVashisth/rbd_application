@@ -7,7 +7,7 @@ NodeJs API using ExpressJS MySql Swagger Jest
 
 # API Documentation
 
-From Gary: https://app.swaggerhub.com/apis/SASIT/CnC/1.0.1-oas3
+https://app.swaggerhub.com/apis/SASIT/CnC/1.0.1-oas3
 
 `http://localhost:3000/swagger-docs`
 
